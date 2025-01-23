@@ -1,307 +1,109 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
-  <head>
-    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-    <meta http-equiv="Content-Style-Type" content="text/css" />
-    <title>
-      The Project Gutenberg eBook of Dans l'abîme, by H. G. Wells.
-    </title>
-    <style type="text/css">
-
-body {
-    margin-left: 10%;
-    margin-right: 10%;
-}
-
-    h1,h2,h3,h4,h5,h6 {
-    text-align: center; /* all headings centered */
-    clear: both;
-}
-
-p {
-    margin-top: .51em;
-    text-align: justify;
-    margin-bottom: .49em;
-}
-
-.p2       {margin-top: 2em;}
-.p4       {margin-top: 4em;}
-.p6       {margin-top: 6em;}
-
-hr {
-    width: 33%;
-    margin-top: 2em;
-    margin-bottom: 2em;
-    margin-left: auto;
-    margin-right: auto;
-    clear: both;
-}
-
-hr.tb   {width: 45%;}
-hr.chap {width: 65%}
-hr.full {width: 95%;}
-
-hr.r5  {width: 5%; margin-top: 1em; margin-bottom: 1em;}
-hr.r65 {width: 65%; margin-top: 3em; margin-bottom: 3em;}
-
-ul.index { list-style-type: none; }
-li.ifrst { margin-top: 1em; }
-li.indx { margin-top: .5em; }
-li.isub1 {text-indent: 1em;}
-li.isub2 {text-indent: 2em;}
-li.isub3 {text-indent: 3em;}
-
-table {
-    margin-left: auto;
-    margin-right: auto;
-}
-
-    .tdl      {text-align: left;}
-    .tdr      {text-align: right;}
-    .tdc      {text-align: center;}
-    table.poem { margin-left: 3em;}
-td.original { font-style: italic; text-align: left }
-td.translated { text-align: left }
-
-.pagenum { /* uncomment the next line for invisible page numbers */
-    /*  visibility: hidden;  */
-    position: absolute;
-    left: 92%;
-    font-size: smaller;
-    text-align: right;
-} /* page numbers */
-
-.linenum {
-    position: absolute;
-    top: auto;
-    right: 10%;
-} /* poetry number */
-
-.blockquot {
-    margin-left: 5%;
-    margin-right: 10%;
-}
-
-.blockquot-half {
-    padding-top: 2em;
-    padding-bottom: 2em;
-    margin-left: 50%;
-}
-
-.sidenote {
-    width: 10%;
-    padding-bottom: .5em;
-    padding-top: .5em;
-    padding-left: .5em;
-    padding-right: .5em;
-    margin-left: .5em;
-    float: left;
-    clear: left;
-    margin-top: .5em;
-    font-size: smaller;
-    color: black;
-    background: #eeeeee;
-    border: dashed 1px;
-}
-
-.bb       {border-bottom: solid 2px;}
-
-.bl       {border-left: solid 2px;}
-
-.bt       {border-top: solid 2px;}
-
-.br       {border-right: solid 2px;}
-
-.bbox     {border: solid 2px;}
+The Project Gutenberg eBook of Dans l’abîme, by Herbert George Wells
 
-.center   {text-align: center;}
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org. If you are not located in the United States, you
+will have to check the laws of the country where you are located before
+using this eBook.
 
-.right   {text-align: right;}
+Title: Dans l’abîme
+       Triomphes d’un Taxidermiste; La Pomme; L’homme volant
 
-.smcap    {font-variant: small-caps;}
+Author: Herbert George Wells
 
-.u        {text-decoration: underline;}
+Editor: Louis Figuier
 
-.gesperrt
-{
-    letter-spacing: 0.2em;
-    margin-right: -0.2em;
-}
+Translator: Henry Durand Davray
 
-em.gesperrt
-{
-    font-style: normal;
-}
+Release Date: February 18, 2021 [eBook #64590]
 
-.caption  {font-weight: normal;
-           font-size: 90%;
-	   text-align: right;
-           padding-bottom: 1em;}
+Language: French
 
-/* Images */
-.figcenter   {
-    margin: auto;
-    text-align: center;
-}
+Character set encoding: UTF-8
 
-.figleft {
-    float: left;
-    clear: left;
-    margin-left: 0;
-    margin-bottom: 1em;
-    margin-top: 1em;
-    margin-right: 1em;
-    padding: 0;
-    text-align: center;
-}
+Produced by: Laura Natal Rodrigues at Free Literature (Images generously
+             made available by Gallica, Bibliothèque nationale de France.)
 
-.figright {
-    float: right;
-    clear: right;
-    margin-left: 1em;
-    margin-bottom:
-    1em;
-    margin-top: 1em;
-    margin-right: 0;
-    padding: 0;
-    text-align: center;
-}
+*** START OF THE PROJECT GUTENBERG EBOOK DANS L’ABÎME ***
 
-/* Notes */
-.footnotes        {margin-top:2em; border: dashed 1px;}
+LA SCIENCE ILLUSTRÉE
 
-.footnote         {margin-left: 10%; margin-right: 10%; font-size: 0.9em;}
 
-.footnote .label  {position: absolute; right: 84%; text-align: right;}
+JOURNAL HEBDOMADAIRE
 
-.fnanchor {
-    vertical-align: super;
-    font-size: .8em;
-    text-decoration:
-    none;
-}
+FONDÉ SOUS LA DIRECTION
 
-.actor {font-size: 0.8em;
-        text-align: center;}
+DE
 
-/* Poetry */
-.poem {
-    margin-left:10%;
-    margin-right:10%;
-    text-align: left;
-}
+LOUIS FIGUIER
 
-.poem br {display: none;}
+06 DÉCEMBRE 1902
 
-.poem .stanza {margin: 1em 0em 1em 0em;}
+À
 
+30 MAI 1903
 
-/* Transcriber's notes */
-.transnote {background-color: #E6E6FA;
-    color: black;
-     font-size:smaller;
-     padding:0.5em;
-     margin-bottom:5em;
-     margin-top:2em;
-     font-family:sans-serif, serif; }
 
-    </style>
-  </head>
-<body>
-<div>*** START OF THE PROJECT GUTENBERG EBOOK 64590 ***</div>
+EXPOSITION INTERNATIONALE (1900)
 
+PARIS
 
-<h2>LA SCIENCE ILLUSTRÉE</h2>
 
 
-<h4>JOURNAL HEBDOMADAIRE</h4>
 
-<h4>FONDÉ SOUS LA DIRECTION</h4>
+DANS L'ABÎME
 
-<h4>DE</h4>
+H.-G. WELLS
 
-<h3>LOUIS FIGUIER</h3>
+TRADUIT DE L'ANGLAIS
 
-<h4>06 DÉCEMBRE 1902</h4>
+PAR
 
-<h4>À</h4>
+HENRY-D. DAVRAY
 
-<h4>30 MAI 1903</h4>
 
 
-<h5>EXPOSITION INTERNATIONALE (1900)</h5>
 
-<h5>PARIS</h5>
+TABLE DES MATIÈRES
+DANS L'ABÎME
+LES TRIOMPHES D'UN TAXIDERMISTE
+LA POMME
+L'HOMME VOLANT
 
-<hr class="r5" />
 
 
-<h2>DANS L'ABÎME</h2>
 
-<h3>H.-G. WELLS</h3>
+DANS L'ABÎME
 
-<h4>TRADUIT DE L'ANGLAIS</h4>
 
-<h5>PAR</h5>
-
-<h3>HENRY-D. DAVRAY</h3>
-
-<hr class="r5" />
-
-
-<h4>TABLE DES MATIÈRES</h4>
-<p><a href="#DANS_LABIME">DANS L'ABÎME</a><br />
-<a href="#LES_TRIOMPHES_DUN_TAXIDERMISTE">LES TRIOMPHES D'UN TAXIDERMISTE</a><br />
-<a href="#LA_POMME">LA POMME</a><br />
-<a href="#LHOMME_VOLANT">L'HOMME VOLANT</a></p>
-
-
-<hr class="r5" />
-
-<h4><a id="DANS_LABIME">DANS L'ABÎME</a></h4>
-
-<p>
 Le lieutenant se tenait debout devant la sphère d'acier et mordillait
 un éclat de bois.
-</p>
 
-<p>
-&mdash;Que pensez-vous de ça, Steevens? demanda-t-il.
-</p>
+--Que pensez-vous de ça, Steevens? demanda-t-il.
 
-<p>
-&mdash;C'est une idée comme une autre, dit Steevens, du ton de quelqu'un
-qui veut se faire une opinion sincère.
-</p>
+--C'est une idée comme une autre, dit Steevens, du ton de quelqu'un qui
+veut se faire une opinion sincère.
 
-<p>
-&mdash;Je crois que ça s'écrasera à plat, continua le lieutenant.
-</p>
+--Je crois que ça s'écrasera à plat, continua le lieutenant.
 
-<p>
-&mdash;Il semble avoir calculé son affaire soigneusement, dit Steevens
+--Il semble avoir calculé son affaire soigneusement, dit Steevens
 encore impartial.
-</p>
 
-<p>
-&mdash;Mais pensez à la pression, insista le lieutenant. À la surface de
+--Mais pensez à la pression, insista le lieutenant. À la surface de
 l'eau, elle est de quatorze livres par pouce; trente pieds plus bas,
 elle est double; soixante, triple; quatre-vingt-dix, quadruple; neuf
 cents, quarante fois plus grande; cinq-mille pieds, trois-cents fois...
 c'est-à-dire qu'à un mille de profondeur la pression est de deux cent
 quarante fois quatorze livres; c'est-à-dire... attendez... un
-quintal... une tonne et demie, Steevens, <i>une tonne et demie</i> par
-pouce carré. Et l'Océan a ici cinq milles de profondeur. Il subira une
+quintal... une tonne et demie, Steevens, _une tonne et demie_ par pouce
+carré. Et l'Océan a ici cinq milles de profondeur. Il subira une
 pression de sept tonnes et demie...
-</p>
 
-<p>
-&mdash;Un joli sondage! dit Steevens. Mais il est protégé aussi par une
+--Un joli sondage! dit Steevens. Mais il est protégé aussi par une
 jolie épaisseur d'acier.
-</p>
 
-<p>
 Le lieutenant ne répondit pas et se mit à mâchonner son bout de bois.
 L'objet de leur conversation était une immense boule d'acier, d'un
 diamètre extérieur d'environ neuf pieds, et qui semblait être le
@@ -310,14 +112,12 @@ laborieusement nichée dans un échafaudage monstrueux, élevé dans la
 charpente du vaisseau, et les espars gigantesques qui allaient bientôt
 la faire glisser par-dessus bord donnaient à l'arrière du navire un
 aspect qui avait excité la curiosité de tout honnête marin, depuis le
-<i>pool</i> de Londres jusqu'au tropique du Capricorne. En deux endroits,
+_pool_ de Londres jusqu'au tropique du Capricorne. En deux endroits,
 l'un au-dessus de l'autre, l'acier faisait place à une couple de
 fenêtres circulaires, fermées d'une paroi de verre d'une épaisseur
 énorme, et l'une d'elles, enchâssée dans un cadre d'acier d'une
 grande solidité, se trouvait pour l'instant en partie dévissée.
-</p>
 
-<p>
 Le matin même, les deux hommes avaient vu, pour la première fois,
 l'intérieur de ce globe. Il était soigneusement matelassé de coussins
 à air, garnis de petits boutons fixés entre les saillies, et qui
@@ -326,9 +126,7 @@ constituaient le simple mécanisme de la chose. Tous les objets
 qui devait absorber l'acide carbonique et remplacer l'oxygène inspiré
 par l'habitant du globe, quand, s'y étant introduit, l'ouverture
 vitrée aurait été vissée.
-</p>
 
-<p>
 Tout était si parfaitement capitonné qu'un être humain aurait pu
 supporter, en toute sécurité, d'être lancé avec la sphère par un
 canon. Et il fallait qu'il en fût ainsi, car bientôt un homme allait
@@ -339,126 +137,78 @@ L'imagination de ce dernier était exclusivement occupée de cet objet;
 c'était devenu pour lui une obsession, même aux repas, et Steevens, le
 nouveau venu, était un compagnon inattendu auquel il allait pouvoir à
 son aise causer de sa préoccupation.
-</p>
 
-<p>
-&mdash;J'ai idée, dit le lieutenant, que ces hublots de verre fléchiront
+--J'ai idée, dit le lieutenant, que ces hublots de verre fléchiront
 simplement, crèveront et s'écraseront sous une pression pareille.
 Daubrée a liquéfié des rochers sous des pressions énormes... et,
 remarquez bien ceci...
-</p>
 
-<p>
-&mdash;Si le verre casse, fit Steevens, qu'arrivera-t-il?
-</p>
+--Si le verre casse, fit Steevens, qu'arrivera-t-il?
 
-<p>
-&mdash;L'eau entrera comme un jet de fer. Avez-vous jamais reçu, bien
-droit, un jet à haute pression? Ça frappe comme un boulet. Il serait
+--L'eau entrera comme un jet de fer. Avez-vous jamais reçu, bien droit,
+un jet à haute pression? Ça frappe comme un boulet. Il serait
 simplement écrasé et aplati. L'eau entrerait dans sa gorge, dans ses
 poumons, pénétrerait dans ses oreilles...
-</p>
 
-<p>
-&mdash;Quelle imagination détaillée! s'écria Steevens, qui se
+--Quelle imagination détaillée! s'écria Steevens, qui se
 représentait vivement les choses.
-</p>
 
-<p>
-&mdash;C'est le simple exposé d'une chose inévitable, dit le lieutenant...
-</p>
+--C'est le simple exposé d'une chose inévitable, dit le lieutenant...
 
-<p>
-&mdash;Et le globe?
-</p>
+--Et le globe?
 
-<p>
-&mdash;Il laisserait s'échapper quelques petites bulles et s'installerait
+--Il laisserait s'échapper quelques petites bulles et s'installerait
 confortablement, jusqu'au jour du jugement, parmi la vase et le limon du
 fond... avec le pauvre Elstead étalé sur ces coussins aplatis, comme
 du beurre sur du pain.
-</p>
 
-<p>
 Il répéta cette image, comme si elle lui eût plu beaucoup:
-</p>
 
-<p>
-&mdash;Comme du beurre sur du pain.
-</p>
+--Comme du beurre sur du pain.
 
-<p>
-&mdash;Un coup d'œil au tape-cul, fit une voix.
-</p>
+--Un coup d'œil au tape-cul, fit une voix.
 
-<p>
 Et Elstead parut derrière eux, vêtu d'un complet blanc, une cigarette
 aux lèvres et les yeux souriants sous les amples bords de son chapeau.
-</p>
 
-<p>
-&mdash;Qu'est-ce que vous dites, à propos de pain et de beurre, Weybridge?
+--Qu'est-ce que vous dites, à propos de pain et de beurre, Weybridge?
 Vous grommelez, comme d'habitude sur la paye insuffisante des officiers
 de marine?... Il n'y a plus qu'un jour à attendre avant que je parte
 maintenant. Les élingues vont être prêtes aujourd'hui. Ce beau ciel
 et cette houle tranquille sont juste ce qu'il faut pour lancer
 par-dessus bord une douzaine de tonnes de plomb et de fer, n'est-ce pas?
-</p>
 
-<p>
-&mdash;Vous ne vous apercevrez pas beaucoup de la houle, dit Weybridge.
-</p>
+--Vous ne vous apercevrez pas beaucoup de la houle, dit Weybridge.
 
-<p>
-&mdash;Non. À soixante ou quatre-vingts pieds de profondeur... et j'y serai
+--Non. À soixante ou quatre-vingts pieds de profondeur... et j'y serai
 dans dix à douze secondes... pas une molécule ne bougera, quand le
 vent hurlerait et que l'eau s'élèverait jusqu'aux nuages. Non. Là, au
 fond...
-</p>
 
-<p>
 Il s'avança jusqu'au bastingage, et les deux autres le suivirent. Tous
 trois se penchèrent sur leurs coudes et contemplèrent l'eau, d'un vert
 jaunâtre.
-</p>
 
-<p>
-&mdash;... La paix, dit. Elstead, en achevant tout haut sa pensée.
-</p>
+--... La paix, dit. Elstead, en achevant tout haut sa pensée.
 
-<p>
-&mdash;Êtes-vous absolument certain que le mouvement d'horlogerie marchera?
+--Êtes-vous absolument certain que le mouvement d'horlogerie marchera?
 demanda tout à coup Weybridge.
-</p>
 
-<p>
-&mdash;Il a marché trente-cinq fois, dit Elstead. Il est tenu de marcher.
-</p>
+--Il a marché trente-cinq fois, dit Elstead. Il est tenu de marcher.
 
-<p>
-&mdash;Mais s'il ne fonctionne pas?
-</p>
+--Mais s'il ne fonctionne pas?
 
-<p>
-&mdash;Pourquoi ne fonctionnerait-il pas?
-</p>
+--Pourquoi ne fonctionnerait-il pas?
 
-<p>
-&mdash;Je ne voudrais pas, pour vingt mille livres, descendre dans cette
+--Je ne voudrais pas, pour vingt mille livres, descendre dans cette
 maudite machine, dit Weybridge.
-</p>
 
-<p>
-&mdash;Vous êtes tout à fait encourageant, remarqua Elstead.
-</p>
+--Vous êtes tout à fait encourageant, remarqua Elstead.
 
-<p>
-&mdash;Je ne comprends pas encore de quelle façon vous pourrez faire
+--Je ne comprends pas encore de quelle façon vous pourrez faire
 fonctionner la chose, dit Steevens.
-</p>
 
-<p>
-&mdash;Eh bien! d'abord, j'entre dans la sphère, et l'on visse l'ouverture,
+--Eh bien! d'abord, j'entre dans la sphère, et l'on visse l'ouverture,
 commença Elstead. Et quand, trois fois de suite, j'ai allumé et
 éteint la lumière électrique pour montrer que tout va bien, je suis
 lancé par-dessus le bastingage par cette grue, avec tous ces gros
@@ -478,15 +228,11 @@ gentiment dans l'eau tout le système. La sphère flotte... avec l'air
 qu'elle renferme, elle est plus légère que l'eau... mais les poids de
 plomb continuent à s'en foncer, et la corde se déroule jusqu'au bout.
 Quand la corde est entièrement filée, la sphère s'enfonce aussi.
-</p>
 
-<p>
-&mdash;Mais à quoi sert la corde? demanda Steevens. Pourquoi ne pas fixer
+--Mais à quoi sert la corde? demanda Steevens. Pourquoi ne pas fixer
 directement les poids à la sphère?
-</p>
 
-<p>
-&mdash;Mais à cause du choc probable au fond. La sphère et ses poids vont
+--Mais à cause du choc probable au fond. La sphère et ses poids vont
 s'enfoncer rapidement, atteindre peu à peu une vitesse vertigineuse.
 Elle serait mise en pièces en touchant le fond, si ce n'était de cette
 corde. Mais, dès que les poids reposeront sur le fond, la légèreté
@@ -500,33 +246,24 @@ demi-heure, la lumière électrique allumée, examinant ce que j'aurai
 autour de moi. Puis le mouvement d'horlogerie mettra enjeu un couteau à
 ressort, la corde sera coupée, et je remonterai à la surface, comme
 une bulle dans un siphon. La corde elle-même aidera la flottaison.
-</p>
 
-<p>
-&mdash;Et si, par hasard, vous remontiez sous un navire? demanda Weybridge.
-</p>
+--Et si, par hasard, vous remontiez sous un navire? demanda Weybridge.
 
-<p>
-&mdash;J'arriverais avec une telle vitesse que je passerais simplement au
+--J'arriverais avec une telle vitesse que je passerais simplement au
 travers comme un boulet de canon, dit Elstead. Vous n'avez pas besoin de
 vous tourmenter à ce sujet.
-</p>
 
-<p>
-&mdash;Supposez que quelque actif petit crustacé s'insinue dans votre
+--Supposez que quelque actif petit crustacé s'insinue dans votre
 mouvement d'horlogerie...
-</p>
 
-<p>
-&mdash;Ce serait pour moi une espèce d'invitation un peu pressante à rester
+--Ce serait pour moi une espèce d'invitation un peu pressante à rester
 en leur compagnie, dit Elstead en tournant le dos à la mer et
 contemplant la sphère.
-</p>
 
-<p class="center">&nbsp;*<br />
-*&nbsp;&nbsp;*</p>
+ *
 
-<p>
+* *
+
 On avait jeté Elstead par-dessus bord à onze heures. C'était une
 journée calme et brillamment sereine, et l'horizon se perdait dans la
 brume. L'éclat des lampes électriques avait joyeusement, par trois
@@ -536,47 +273,30 @@ près des sabords d'arrière prêt à couper le palan qui retenait l'ensemble
 des fonceurs et de la sphère. La sphère, qui sur le pont avait
 paru si énorme, semblait maintenant un inimaginable petit objet sous
 l'arrière du navire.
-</p>
-
-<p><br /></p>
-
-<div class="figcenter" style="width: 300px;">
-<img src="images/figure01.jpg" width="300" height="400" alt="" />
-<div class="caption">
-<p class="center">DANS L'ABÎME.&mdash;Ses deux hublots sombres, au dessus
-de la ligne de flottaison, semblaient des yeux ahuris.</p>
-</div></div>
 
 
-<p>
+[Figure 01: DANS L'ABÎME.--Ses deux hublots sombres, au dessus
+de la ligne de flottaison, semblaient des yeux ahuris.]
+
+
 Elle se balança un peu, et ses deux hublots sombres au-dessus de la
 ligne de flottaison semblaient des yeux ahuris contemplant l'équipage
 qui se pressait contre le bord. Une voix s'éleva, demandant ce
 qu'Elstead devait penser de ce balancement.
-</p>
 
-<p>
-&mdash;Êtes-vous prêts? fit le commandant.
-</p>
+--Êtes-vous prêts? fit le commandant.
 
-<p>
-&mdash;Oui, capitaine.
-</p>
+--Oui, capitaine.
 
-<p>
-&mdash;Lâchez tout.
-</p>
+--Lâchez tout.
 
-<p>
 Le câble du palan se raidit contre la lame et fut coupé. Un remous
 tourbillonna sur la sphère d'une façon grotesquement impuissante.
 Quelqu'un agita un mouchoir; un autre tenta une acclamation vaine; un
 quartier maître compta lentement... huit, neuf, dix. Il y eut un autre
 remous, puis, avec un bruyant clapotis et un large éclaboussement, la
 sphère reprit son aplomb.
-</p>
 
-<p>
 Elle sembla rester stationnaire un instant, puis devenir rapidement plus
 petite; enfin l'eau la recouvrit, et elle resta visible au-dessous de la
 surface, imprécise et agrandie par la réfraction. Avant qu'on ait pu
@@ -584,137 +304,89 @@ compter jusqu'à trois, elle avait disparu. Il y eut, dans les
 profondeurs de l'eau, un tremblement de lumière blanche qui diminua
 jusqu'à n'être plus qu'un point et s'évanouit. Puis, il n'y eut plus
 rien que l'abîme des eaux ténébreuses dans lequel un requin nageait.
-</p>
 
-<p>
 Soudain l'hélice du croiseur se mit en mouvement; l'eau bouillonna; le
 requin disparut dans la convulsion des vagues, et un torrent d'écume
 s'étendit sur la cristalline limpidité qui avait englouti Elstead.
-</p>
 
-<p>
-&mdash;Qu'est-ce qu'on fait maintenant? dit un matelot à un autre.
-</p>
+--Qu'est-ce qu'on fait maintenant? dit un matelot à un autre.
 
-<p>
-&mdash;On va s'éloigner d'une couple de milles pour ne pas nous trouver sur
+--On va s'éloigner d'une couple de milles pour ne pas nous trouver sur
 son chemin quand il remontera, répondit son camarade.
-</p>
 
-<p>
 Le navire gagna lentement sa nouvelle position. À bord, tous ceux qui
 n'étaient pas occupés restaient à surveiller l'endroit houleux où la
 sphère s'était enfoncée. Pendant la demi-heure qui suivit, il est
 douteux qu'un seul mot ait été prononcé qui n'eût pas rapport à
 Elstead. Le soleil de décembre était maintenant haut dans le ciel, et
 la chaleur était fort grande.
-</p>
 
-<p>
-&mdash;Je crois qu'il n'aura pas trop chaud là-dessous, dit Weybridge. On
+--Je crois qu'il n'aura pas trop chaud là-dessous, dit Weybridge. On
 prétend que, passé une certaine profondeur, l'eau de la mer est
 presque toujours à une température glaciale.
-</p>
 
-<p>
-&mdash;À quel endroit va-t-il ressortir? demanda Steevens.
-</p>
+--À quel endroit va-t-il ressortir? demanda Steevens.
 
-<p>
-&mdash;C'est là-bas, dit le commandant, qui s'enorgueillissait de son
+--C'est là-bas, dit le commandant, qui s'enorgueillissait de son
 omniscience. Il indiqua d'un doigt précis le sud-est. Et, ajouta-t-il,
 il ne va pas tarder maintenant. Il y a déjà trente-cinq minutes.
-</p>
 
-<p>
-&mdash;Combien de temps faut-il pour atteindre le fond de l'Océan?
+--Combien de temps faut-il pour atteindre le fond de l'Océan?
 interrogea Steevens.
-</p>
 
-<p>
-&mdash;Pour une profondeur de cinq milles, en tenant compte, comme nous
+--Pour une profondeur de cinq milles, en tenant compte, comme nous
 l'avons fait, d'une accélération de deux pieds par seconde, à la fois
 à l'aller et au retour, il lui faut environ trois quarts de minute.
-</p>
 
-<p>
-&mdash;Alors, il est en retard, fit Weybridge.
-</p>
+--Alors, il est en retard, fit Weybridge.
 
-<p>
-&mdash;Mais... presque, dit le commandant. Je suppose qu'il faut quelques
+--Mais... presque, dit le commandant. Je suppose qu'il faut quelques
 minutes pour que sa corde s'enroule.
-</p>
 
-<p>
-&mdash;J'avais oublié cela, dit Weybridge, évidemment soulagé.
-</p>
+--J'avais oublié cela, dit Weybridge, évidemment soulagé.
 
-<p>
 Alors commença l'attente. Lentement, une minute s'écoula, et aucune
 sphère ne sortit des flots. Une autre minute suivit, et rien ne vint
 rompre la houle huileuse. Les matelots s'expliquaient les uns aux autres
 l'importance de l'enroulement de la corde. Les agrès étaient pleins de
 figures attentives.
-</p>
 
-<p>
-&mdash;Montez, Elstead, montez! cria impatiemment un matelot à la poitrine
+--Montez, Elstead, montez! cria impatiemment un matelot à la poitrine
 velue, et les autres reprirent et crièrent comme s'ils réclamaient la
 levée du rideau au théâtre.
-</p>
 
-<p>
 Le commandant leur lança un regard irrité.
-</p>
 
-<p>
-&mdash;Naturellement, si l'accélération est moindre que deux, dit-il, il
+--Naturellement, si l'accélération est moindre que deux, dit-il, il
 sera plus longtemps. Nous ne sommes pas absolument certains que ce soit
 là une donnée exacte. Je ne crois pas aveuglément aux calculs.
-</p>
 
-<p>
 Steevens donna brièvement son assentiment. Personne sur le gaillard
 d'arrière ne parla pendant une couple de minutes. Alors l'étui de la
 montre de Steevens cliqua.
-</p>
 
-<p>
 Lorsque, vingt et une minutes plus tard, le soleil atteignit le zénith,
 ils attendaient encore l'apparition de la sphère, et pas un homme à
 bord n'avait osé murmurer que tout espoir était perdu. Ce fut
 Weybridge qui, le premier, exprima cette certitude.
-</p>
 
-<p>
-&mdash;Je n'ai jamais eu confiance dans ces hublots, dit-il tout à coup à
+--Je n'ai jamais eu confiance dans ces hublots, dit-il tout à coup à
 Steevens.
-</p>
 
-<p>
-&mdash;Grand Dieu! s'écria Steevens, vous ne croyez pas que...
-</p>
+--Grand Dieu! s'écria Steevens, vous ne croyez pas que...
 
-<p>
-&mdash;Ma foi... fit Weybridge, et il laissa le reste à son imagination.
-</p>
+--Ma foi... fit Weybridge, et il laissa le reste à son imagination.
 
-<p>
-&mdash;Je n'ai pas grande foi dans les calculs de ce genre, déclara le
+--Je n'ai pas grande foi dans les calculs de ce genre, déclara le
 commandant sur un ton de doute, de sorte que je n'ai pas encore perdu
 tout espoir.
-</p>
 
-<p>
 À minuit, le croiseur évoluait lentement autour de l'endroit où la
 sphère s'était enfoncée. Le rayon blanc du foyer électrique se
 promenait et s'arrêtait indiscontinûment sur l'étendue des eaux
 phosphorescentes, tandis, que scintillaient de minuscules étoiles.
-</p>
 
-<p>
-&mdash;Si sa fenêtre n'a pas cédé et qu'il ne soit pas écrasé, dit
+--Si sa fenêtre n'a pas cédé et qu'il ne soit pas écrasé, dit
 Weybridge, sa maudite situation est pire encore, car alors ce serait son
 mouvement d'horlogerie qui n'aurait pas fonctionné, et il serait
 maintenant vivant à cinq milles sous nos pieds, là-dessous, dans le
@@ -725,39 +397,29 @@ souffrant de la faim et de la soif, épouvanté et se demandant s'il
 mourra de faim ou d'étouffement. Laquelle de ces deux morts sera-ce?
 L'appareil Myers doit s'épuiser, je suppose. Combien de temps peut-il
 durer?
-</p>
 
-<p>
-&mdash;Tonnerre! s'exclama-t-il, quelles petites choses nous sommes! quels
+--Tonnerre! s'exclama-t-il, quelles petites choses nous sommes! quels
 audacieux petits diables! Dans l'abîme! Des milles et des milles de
 liquide... rien que de l'eau au-dessous de nous et autour de nous, et ce
 ciel! Des gouffres!
-</p>
 
-<p>
 Il leva les bras, et au même moment une petite traînée blanche monta
 sans bruit dans le ciel, ralentit peu à peu sa course, s'arrêta,
 devint un petit point immobile, comme si une nouvelle étoile avait pris
 place dans le ciel. Puis cela se mit à dégringoler et se perdit
 bientôt dans les réflexions des étoiles et dans la pâle et brumeuse
 phosphorescence de la mer.
-</p>
 
-<p>
 À cette vue, il resta stupéfait, le bras tendu et la bouche ouverte.
 Puis il ferma sa bouche, l'ouvrit de nouveau, et agita ses bras avec des
 gestes désordonnés. Enfin, il se tourna et cria: «Elstead, ohé!» à
 la première vigie, et courut jusqu'à Lindley, puis au foyer
 électrique.
-</p>
 
-<p>
-&mdash;Je l'ai vu, criait-il, à tribord, là-bas! Ses lampes sont allumées.
+--Je l'ai vu, criait-il, à tribord, là-bas! Ses lampes sont allumées.
 Et il vient juste de sortir. Cherchez de ce côté avec le rayon. Nous
 allons bien le voir flotter quand il réapparaîtra à la surface.
-</p>
 
-<p>
 Mais ils ne le trouvèrent pas avant l'aurore. Même alors ils
 manquèrent de le couler bas. La grue fut préparée, et avec une
 chaloupe, on agrafa les chaînes à la sphère. Quand ils l'eurent
@@ -765,9 +427,7 @@ remontée à bord, ils en dévissèrent l'ouverture et explorèrent des
 yeux l'obscurité de l'intérieur, car la chambre du foyer électrique
 était arrangée de façon à illuminer l'eau seulement autour de la
 sphère et était interceptée de la cavité générale.
-</p>
 
-<p>
 L'atmosphère intérieure était très surchauffée, et la gutta-percha
 qui garnissait les bords de l'ouverture était molle. Leurs questions
 impatientes restèrent sans réponse et aucun bruit ne leur parvint.
@@ -776,35 +436,25 @@ médecin du bord s'y introduisit et le passa à ceux de l'extérieur.
 Pendant un certain temps, ils ne purent se rendre compte si Elstead
 était vivant ou mort. Sa figure, à la lueur jaunâtre des lampes,
 était toute brillante de transpiration. On le descendit dans sa cabine.
-</p>
 
-<p>
 Il n'était pas mort, comme ils purent bientôt s'en apercevoir, mais
 dans un état d'affaissement nerveux absolu et, de plus, cruellement
 contusionné. Il lui fallut, pendant plusieurs jours, rester couché et
 parfaitement tranquille. Une semaine se passa avant qu'il pût raconter
 ses expériences.
-</p>
 
-<p>
 Dès les premiers mots, il déclara qu'il allait recommencer. La sphère
 avait besoin d'être perfectionnée, dit-il, afin de lui permettre de se
 débarrasser de la corde, s'il le fallait, et c'était tout. Ç'avait
 été la plus merveilleuse aventure.
-</p>
 
-<p>
-&mdash;Vous pensiez, dit-il, que je ne trouverais rien que de la vase. Vous
+--Vous pensiez, dit-il, que je ne trouverais rien que de la vase. Vous
 vous moquiez de mes explorations, et j'ai découvert un nouveau monde.
-</p>
 
-<p>
 Il raconta son histoire par fragments sans suite, et presque toujours en
 commençant par la fin, de sorte qu'il est impossible de la répéter
 dans ses propres termes. Mais ce qui suit en est l'exacte narration.
-</p>
 
-<p>
 «Son voyage commença atrocement. Avant que la corde fût entièrement
 filée, la sphère ne cessa de ballotter. Il eut la sensation d'être
 une grenouille enfermée dans un ballon sur lequel on s'acharne à coups
@@ -825,9 +475,7 @@ ciel de minuit, bien que d'une teinte plus verte, et, au-dessous de lui,
 absolument noire. De temps en temps, de petites choses transparentes
 avec un scintillement lumineux faisaient au long des hublots de
 légères traînées verdâtres.
-</p>
 
-<p>
 «Et la sensation de chute! Elle rappelait le départ soudain d'un
 ascenseur, avec cette différence qu'elle durait plus longtemps. Il faut
 réfléchir un instant pour réaliser ce que ce doit être. Ce fut alors
@@ -837,26 +485,17 @@ contre lui. Il pensa aux énormes poissons à scie qui existent dans les
 profondeurs moyennes, à ces spécimens terribles qu'on trouve parfois
 à demi digérés dans l'estomac des grands cétacés ou flot tant
 morts, décomposés et à demi dévorés.
-</p>
 
-<p>
 «Il s'imagina l'un d'entre eux s'attaquant à la sphère et ne voulant
 plus la lâcher. Et le mouvement d'horlogerie, l'avait-il suffisamment
 éprouvé? Mais qu'il voulut maintenant descendre ou remonter, c'était
 absolument la même chose.
-</p>
-
-<p><br /></p>
-
-<div class="figcenter" style="width: 300px;">
-<img src="images/figure02.jpg" width="300" height="400" alt="" />
-<div class="caption">
-<p class="center">DANS L'ABÎME.&mdash;Dans le rayon de son foyer électrique
-apparaissaient des poissons.</p>
-</div></div>
 
 
-<p>
+[Figure 02: DANS L'ABÎME.--Dans le rayon de son foyer électrique
+apparaissaient des poissons.]
+
+
 «Au bout de cinquante secondes, tout, à l'extérieur, fut aussi noir
 que la nuit, sauf ce que le rayon de son foyer électrique éclairait et
 dans quoi apparaissaient de temps à autre des poissons et passaient
@@ -868,9 +507,7 @@ pas été suffisamment évaluée. La première chose qu'il put remarquer
 fut qu'il transpirait; puis il perçut sous ses pieds une sorte de
 sifflement qui s'accrut, et il vit une foule de petites bulles, de très
 petites bulles qui montaient en éventail vers la surface. De la vapeur!
-</p>
 
-<p>
 «Il tâta le hublot: la vitre était brûlante. Immédiatement, il
 alluma la lampe électrique qui éclairait sa cabine, regarda la montre
 encastrée dans le capitonnage, et il vit que son voyage durait déjà
@@ -882,18 +519,14 @@ course des bulles se ralentit et le sifflement diminua. La sphère se
 balança légèrement. Le hublot n'avait pas craqué, rien n'avait
 cédé, et il savait que, dans tous les cas, le danger de couler bas
 était passé.
-</p>
 
-<p>
 «Encore une minute et il reposerait sur le fond de l'abîme. Il songea,
 dit-il, à Steevens, à Weybridge et aux autres qui étaient à cinq
 milles au-dessus de sa tête, plus haut pour lui que ne le furent jamais
 au-dessus de nous les plus élevés des nuages qui flottent dans le
 ciel, à eux tous navigant lentement, cherchant à pénétrer la
 profondeur des eaux et se demandant ce qui pouvait lui être arrivé.
-</p>
 
-<p>
 «Il se mit à regarder par le hublot. Il n'y avait plus de bulles
 maintenant, et le sifflement avait cessé. Au dehors, c'étaient de
 profondes ténèbres d'un noir épais comme un velours, sauf là où le
@@ -901,9 +534,7 @@ rayon électrique pénétrait l'eau et en montrait la couleur: un gris
 jaunâtre. Alors, trois choses, comme des formes de feu, nagèrent en se
 suivant. Il ne pouvait distinguer si elles étaient petites ou énormes
 et éloignées.
-</p>
 
-<p>
 «Chacune d'elles se dessinait avec des contours bleuâtres, presque
 aussi brillants que les feux d'une barque de pêche, des feux qui
 semblaient répandre beaucoup de fumée, et ils avaient, de chaque
@@ -914,17 +545,13 @@ petits poissons de quelque étrange espèce, avec des yeux énormes, et
 dont les corps et les queues se terminaient brusquement. Leurs yeux
 étaient tournés vers lui, et il jugea qu'ils suivaient sa descente,
 les supposant attirés par sa clarté.
-</p>
 
-<p>
 «D'autres du même genre se joignirent bientôt à eux. À mesure qu'il
 descendait, il remarquait que l'eau prenait une teinte pallide et que de
 petites taches de lumière scintillaient dans son rayonnement comme des
 atomes dans un rai de soleil. Cela était probablement dû aux nuages de
 vase et de boue que la chute de ses fonceurs de plomb avait produits.
-</p>
 
-<p>
 «Pendant tout le temps qu'il fut entraîné vers le fond par ses poids
 de plomb, il se trouva dans une sorte de brouillard blanc si dense que
 son projecteur électrique ne réussissait pas entièrement à le percer
@@ -935,9 +562,7 @@ phosphorescence d'un banc éloigné de poissons, il lui fut possible de
 voir, sous l'immense obscurité des eaux supérieures, une surface
 ondulante de vase d'un blanc grisâtre, rompue çà et là par des
 fourrés enchevêtrés de lis de mer agitant leurs tentacules affamés.
-</p>
 
-<p>
 «Plus loin se trouvaient les gracieux et transparents contours d'un
 groupe d'épongés gigantesques. Sur ce sol étaient dispersées un
 grand nombre de touffes hérissées et plates d'une riche couleur
@@ -947,25 +572,19 @@ curieuse ressemblance, les unes avec les cloportes, les autres avec les
 homards, rampaient paresseusement dans la traînée de lumière et
 disparaissaient de nouveau dans l'obscurité en laissant derrière eux
 des sillons dans la vase.
-</p>
 
-<p>
 «Soudain la multitude voltigeante de petits poissons vira et s'avança
 vers lui comme une volée d'étourneaux pourrait le faire. Ils
 passèrent au-dessus de lui comme une neige phosphorescente, et alors,
 derrière eux, une créature de dimensions il vit plus grandes qui
 s'avançait vers la sphère.
-</p>
 
-<p>
 «D'abord, il ne put la distinguer que vaguement, figure aux mouvements
 indécis et suggérant de loin un homme en marche; puis elle entra dans
 le rayonnement lumineux que projetait la lampe. Au moment où la
 lumière la frappa, elle ferma les yeux, éblouie. Elstead la contempla
 avec stupéfaction.
-</p>
 
-<p>
 «C'était un étrange animal vertébré. Sa tête d'un pourpre sombre,
 rappelait vaguement celle d'un caméléon, mais le front était si
 élevé et la boîte crânienne si développée qu'aucun reptile n'en
@@ -977,9 +596,7 @@ bouche reptilienne aux lèvres cornées. À l'endroit des oreilles
 étaient deux énormes ouïes hors desquelles flottaient des filaments
 nombreux d'un rouge de corail, rappelant les ouïes que possèdent les
 très jeunes raies et les requins.
-</p>
 
-<p>
 «Mais ce que sa face avait d'humain n'était pas le trait le plus
 extraordinaire qu'offrait cette créature. Elle était bipède; son
 corps, presque sphérique, était en équilibre sur une sorte de
@@ -991,18 +608,12 @@ créature était, variée: sa tête, ses mains et ses jambes étaient
 pourpres, mais sa peau, qui pendait flottante autour de son corps comme
 des vêtements le feraient, était d'un gris phosphorescent. Elle
 restait là, aveuglée par la lumière.
-</p>
 
-<p><br /></p>
 
-<div class="figcenter" style="width: 300px;">
-<img src="images/figure03.jpg" width="300" height="400" alt="" />
-<div class="caption">
-<p class="center">DANS L'ABÎME.&mdash;Cet habitant inconnu de l'abîme
-cligna des yeux et les écarquilla.</p>
-</div></div>
+[Figure 03: DANS L'ABÎME.--Cet habitant inconnu de l'abîme
+cligna des yeux et les écarquilla.]
 
-<p>
+
 À la fin, cet habitant inconnu de l'abîme cligna des paupières et les
 écarquilla; puis, portant sa main libre au-dessus de ses yeux, il
 ouvrit la bouche et articula à la façon humaine un cri qui pénétra
@@ -1014,9 +625,7 @@ la sentit plutôt qu'il ne la vit venir vers lui. Certain que la
 lumière l'avait attirée, il interrompit le courant. Un moment après,
 des coups sourds résonnèrent contre l'acier, et la sphère se
 balança.
-</p>
 
-<p>
 «Alors le cri fut répété. Et il sembla à Elstead qu'un écho
 lointain y répondait. Les coups sourds reprirent et la sphère se
 balança de nouveau et grinça contre le pivot sur lequel la corde
@@ -1024,9 +633,7 @@ balança de nouveau et grinça contre le pivot sur lequel la corde
 pénétrer du regard l'éternelle nuit de l'abîme. Et bientôt il vit,
 très faibles et lointaines, d'autres formes phosphorescentes et
 quasi-humaines se hâter vers lui.
-</p>
 
-<p>
 Sachant à peine ce qu'il faisait, il tâta contre les parois de sa
 prison instable pour trouver le bouton du projecteur électrique
 extérieur et pressa accidentellement celui de la petite lampe qui
@@ -1034,9 +641,7 @@ extérieur et pressa accidentellement celui de la petite lampe qui
 Il entendit comme des cris de surprise, et quand il fut relevé, il vit
 deux yeux attentifs qui regardaient par le hublot inférieur et qui en
 réfléchissaient la clarté.
-</p>
 
-<p>
 «Au même instant, des mains heurtaient vigoureusement l'enveloppe
 d'acier et il entendit, impression suffisamment horrible dans sa
 position, des heurts réitérés sur l'enveloppe de métal, qui
@@ -1045,24 +650,18 @@ l'étrangla; car, si ces étranges créatures parvenaient à arrêter le
 mouvement, sa délivrance était impossible. À peine avait-il pensé
 cela, qu'il sentit la sphère se balancer et la paroi sembla peser
 lourdement contre ses pieds.
-</p>
 
-<p>
 «Il éteignit la petite lampe intérieure et rétablit le courant du
 réflecteur extérieur. Le fond vaseux et les créatures quasi-humaines
 avaient disparu, et une couple de poissons se poursuivant soudain
 passèrent contre le hublot.
-</p>
 
-<p>
 «Il pensa aussitôt que ces étranges habitants avaient rompu la corde
 et qu'il avait échappé. Il remontait de plus en plus vite, puis il
 s'arrêta avec une secousse qui l'envoya heurter la paroi capitonnée de
 sa prison. Pendant une demi-minute, peut être, il fut trop étonné
 pour réfléchir.
-</p>
 
-<p>
 «Alors il sentit que la sphère tournait lentement sur elle-même avec
 une sorte de balancement, et il lui sembla aussi qu'il avançait
 horizontalement dans l'eau. En se blottissant, tout contre le hublot, il
@@ -1070,18 +669,14 @@ parvint à rétablir de son poids et à ramener l'équilibre vers le
 fond cette partie de la sphère; mais il ne put rien voir que le pâle
 rayonnement de son réflecteur frappant inutilement les ténèbres. Il
 lui vint à l'idée qu'il pourrait mieux voir s'il éteignait la lampe.
-</p>
 
-<p>
 «En ceci, il fut sage. Au bout de quelques minutes les ténèbres
 veloutées devinrent une sorte d'obscurité translucide, et alors, dans
 le lointain, et aussi imprécises que la lumière zodiacale d'un soir
 d'été, il vit des formes se mouvoir au-dessous de lui. Il jugea que
 ces créatures avaient détaché son câble et le remorquaient au long
 du fond de la mer.
-</p>
 
-<p>
 «Alors, par-delà les ondulations de la plaine sous-marine, vague et
 lointaine, il vit un immense horizon d'une luminosité pâle qui
 s'étendait de chaque côté aussi loin que sa petite fenêtre lui
@@ -1089,9 +684,7 @@ permettait d'apercevoir. Vers cet horizon, il était remorqué comme un
 ballon qu'on ramènerait de la plaine vers la ville. Il en approchait
 très lentement, et très lentement la vague irradiation se précisait
 en des formes plus définies.
-</p>
 
-<p>
 «Il était presque cinq heures lorsqu'il atteignit cette aire
 lumineuse; et, vers ce moment, il put distinguer une sorte d'arrangement
 qui suggérait des rues et des maisons groupées à l'entour d'un vaste
@@ -1100,9 +693,7 @@ Tout cela s'étendait au-dessous de lui comme une carte. Les maisons
 étaient toutes des enclos de murs sans toits, et leur substance
 étant, comme il le vit plus tard, d'os phosphorescents, donnait à cet
 endroit l'apparence d'être bâti avec du clair de lune noyé.
-</p>
 
-<p>
 «Parmi les cavités inférieures, des végétations crinoïdes
 étendaient leurs tentacules, et de grandes, sveltes et fragiles
 éponges surgissaient comme des minarets brillants et comme des lis de
@@ -1116,9 +707,7 @@ délimitées par des lignes pointillées d'objets ronds, et il
 s'aperçut qu'en plusieurs endroits au-dessous de lui, en de larges
 espaces ouverts, étaient des formes semblables à des carcasses
 pétrifiées de navires.
-</p>
 
-<p>
 «Lentement et sûrement il descendait, et les formes au-dessous de lui
 devenaient plus brillantes, plus claires et plus distinctes. On le
 dirigeait vers le large édifice qui occupait le centre de la ville, et
@@ -1128,9 +717,7 @@ des vaisseaux qui formait un des principaux traits de la place était
 couvert d'une quantité d'êtres gesticulants qui le regardaient, puis
 les murs du grand édifice montèrent silencieusement autour de lui et
 lui cachèrent la vue de la cité.
-</p>
 
-<p>
 «Les murs étaient de bois durci par l'eau, de câbles de fer tressés,
 d'espars de cuivre et de fer, d'os et de crânes de naufragés. Les
 crânes couraient au long des murs de l'édifice en zigzags, en spirales
@@ -1143,18 +730,12 @@ passant devant d'immenses fenêtres en pointe, à travers lesquelles il
 apercevait vaguement, le regardant, un grand nombre de ces étrangers et
 fantomatiques créatures. Et il vint enfin se poser, lui sembla-t-il,
 sur une sorte d'autel au centre de la place.
-</p>
 
-<p><br /></p>
 
-<div class="figcenter" style="width: 300px;">
-<img src="images/figure04.jpg" width="300" height="400" alt="" />
-<div class="caption">
-<p class="center">DANS L'ABÎME.&mdash;Il s'aperçut qu'ils se prosternaient
-tous devant lui, sauf un.</p>
-</div></div>
+[Figure 04: DANS L'ABÎME.--Il s'aperçut qu'ils se prosternaient
+tous devant lui, sauf un.]
 
-<p>
+
 «Maintenant il se trouvait à un niveau qui lui permettait de voir
 distinctement ces étranges habitants de l'abîme. À son grand
 étonnement, il s'aperçut qu'ils se prosternaient devant lui, tous,
@@ -1162,9 +743,7 @@ sauf un, vêtu, semblait-il, d'une robe d'écaillés superposées et
 couronné d'un diadème lumineux, et qui se tenait debout, ouvrant et
 fermant alternativement sa bouche de reptile, comme s'il dirigeait les
 cantiques des adorateurs.
-</p>
 
-<p>
 «Une curieuse impulsion fit allumer à Elstead sa lampe intérieure, de
 sorte qu'il devint visible à ces habitants de l'abîme et que cette
 clarté les fit immédiatement disparaître dans l'obscurité. À cette
@@ -1175,17 +754,13 @@ moment, il fut trop aveuglé pour percevoir ce qu'ils faisaient et quand
 enfin il put les distinguer, ils étaient de nouveau agenouillés. Ils
 continuèrent à l'adorer ainsi sans répit ni relâche pendant trois
 heures.
-</p>
 
-<p>
 «Elstead fit un récit des plus circonstanciés de cette cité
 surprenante et de ces gens qui n'ont jamais vu ni soleil, ni lune, ni
 étoile, aucune végétation verte, ni aucune créature respirante, qui
 ne savent rien du feu, et ne connaissent d'autre lumière que la clarté
 phosphorescente d'organismes vivants.
-</p>
 
-<p>
 «Si saisissante que soit son histoire, il est encore plus saisissant de
 trouver que des hommes de science aussi éminents que Adams et Jenkins
 n'y découvrent rien d'incroyable. Ils m'ont dit qu'ils ne voyaient
@@ -1195,9 +770,7 @@ pression énorme, et d'une structure si pesante que, vivants ou morts,
 ils ne peuvent flotter, que de tels êtres ne pussent vivre au sein de
 la mer profonde, inconnus de nous, et, comme nous, descendants du grand
 Thériomorphe de l'âge de la Terre Rouge.
-</p>
 
-<p>
 «Ils doivent nous connaître cependant comme des créatures étranges
 et météoriques, accoutumées à dégringoler, accidentellement mortes,
 à travers les mystérieuses ténèbres de leur ciel liquide, et non
@@ -1210,11 +783,9 @@ suggestives et inspiratrices. On peut comprendre, jusqu'à un certain
 point, leur conduite à l'arrivée d'un homme vivant, si l'on pense à
 ce qu'un peuple barbare ferait pense à une créature brillante et
 auréolée qui descendrait soudain dans notre ciel.
-</p>
 
-<p>
 «Elstead dut probablement compléter une fois ou l'autre aux officiers
-du <i>Ptarmigan</i> chaque détail de son étrange séjour de douze heures
+du _Ptarmigan_ chaque détail de son étrange séjour de douze heures
 dans l'abîme. Il est certain aussi qu'il eut l'intention d'en rédiger
 le récit, mais qu'il ne le fit jamais. Et il nous faut donc
 malheureusement rassembler les fragments disjoints de son histoire
@@ -1230,9 +801,7 @@ montre, découvrit avec terreur qu'il ne lui restait d'oxygène que pour
 quatre heures encore. Mais les cantiques en son honneur continuaient,
 aussi impitoyables que s'ils avaient été l'hymne funèbre de sa mort
 prochaine.
-</p>
 
-<p>
 «Il ne comprit jamais de quelle façon il fut délivré, mais, à en
 juger par l'extrémité de la corde qui restait attachée à la sphère,
 elle avait dû être coupée par le constant frottement contre le rebord
@@ -1241,9 +810,7 @@ monde, comme une créature éthérée, enveloppée de vide, traverserait
 notre atmosphère pour retournera son éther natal. Il dut disparaître
 à leurs yeux comme une bulle d'hydrogène monte dans l'air. Et ce dut
 leur paraître une étrange ascension.
-</p>
 
-<p>
 «La sphère montait avec une vélocité plus grande encore que celle de
 la descente, quand elle était alourdie par les fonceurs de plomb. Elle
 devint excessivement chaude. Elle montait, les hublots en l'air, et il
@@ -1253,34 +820,30 @@ quelque chose comme une immense roue sembla se mettre à tourbillonner
 dans sa tête, le compartiment capitonné commença à tourner autour de
 lui, et il s'évanouit. Puis ses souvenirs cessent jusqu'au moment où
 il se retrouva dans la cabine et entendit la voix du docteur.»
-</p>
 
-<p>
 Telle est la substance de l'extraordinaire histoire qu'Elstead narra par
-fragments aux officiers du <i>Ptarmigan</i>. Il promit de la fixer par
-écrit plus tard, mais son esprit était surtout préoccupé par les
+fragments aux officiers du _Ptarmigan_. Il promit de la fixer par écrit
+plus tard, mais son esprit était surtout préoccupé par les
 améliorations de son appareil, améliorations qui furent exécutées à
 Rio.
-</p>
 
-<p>
 Il nous reste simplement à dire que, le 2 février 1896, il opéra sa
 seconde descente dans l'abîme de l'Océan, avec les perfectionnements
 que sa première expérience lui avait suggérés. On ne saura
 probablement jamais ce qui est arrivé. Il n'est pas revenu. Le
-<i>Ptarmigan</i> louvoya autour du point de sa submersion, le cherchant en
+_Ptarmigan_ louvoya autour du point de sa submersion, le cherchant en
 vain, pendant treize jours. Puis il revint à Rio, et la nouvelle fut
 télégraphiée à ses amis. L'affaire en reste là pour le présent.
 Mais il est peu probable qu'aucune nouvelle tentative soit faite pour
 vérifier cette étrange histoire des cités jusqu'ici insoupçonnées
 de l'abîme des mers.
-</p>
 
-<p><br /><br /><br /></p>
 
-<h4><a id="LES_TRIOMPHES_DUN_TAXIDERMISTE">LES TRIOMPHES D'UN TAXIDERMISTE</a></h4>
 
-<p>
+
+LES TRIOMPHES D'UN TAXIDERMISTE
+
+
 Voici quelques-uns des secrets de la taxidermie. Ils me furent
 révélés par un taxidermiste, dans un moment d'expansion. Il me les
 conta entre son premier et son quatrième verre de whisky, moment où
@@ -1289,9 +852,7 @@ Nous étions dans son taudis, qui était à la fois sa bibliothèque,
 son salon et sa salle à manger, et séparé, du moins quant à la vue,
 par un rideau de bambous japonais, du fétide réduit dans lequel il
 s'adonnait à ses travaux.
-</p>
 
-<p>
 Il était assis sur un fauteuil pliant, et, quand il ne s'en servait pas
 pour cogner dans la cheminée les morceaux de charbon réfractaires, il
 mettait ses pieds, lesquels étaient revêtus, en manière de sandales,
@@ -1308,34 +869,24 @@ toujours de travers; l'œil gauche, petit et pénétrant, vous regardait
 fixement par-dessus la monture, et l'œil droit s'apercevait vaguement
 de l'autre côté du verre, agrandi et adouci. Il discourait en ces
 termes:
-</p>
 
-<p><br /></p>
 
-<div class="figcenter" style="width: 300px;">
-<img src="images/figure05.jpg" width="300" height="400" alt="" />
-<div class="caption">
-<p class="center">LES TRIOMPHES D'UN TAXIDERMISTE.&mdash;«Il n'y a jamais
-eu d'homme qui sache empailler comme moi!»</p>
-</div></div>
+[Figure 05: LES TRIOMPHES D'UN TAXIDERMISTE--«Il n'y a jamais eu
+d'homme qui sache empailler comme moi!»]
 
-<p>
+
 «Il n'y a jamais eu d'homme, mon cher Bellows, qui sache empailler
 comme moi, jamais! J'ai empaillé des éléphants et j'ai empaillé des
 phalènes! Et ils n'en paraissaient que plus vivants et mieux faits.
 J'ai empaillé des êtres humains, surtout pour les ornithologues
 amateurs. Même une fois, j'ai empaillé un nègre...
-</p>
 
-<p>
 «Non, il n'y a pas de loi qui le défende; je l'avais fait avec les
 doigts écartés et m'en servais comme de porte-manteau; mais cet
 imbécile de Homersby lui chercha querelle un soir, très tard, et le
 démolit. Cela se passait avant que je ne vous connusse. C'est difficile
 d'avoir des peaux, sans cela j'en aurais fait un autre.
-</p>
 
-<p>
 «Désagréable? Ma foi non! Il me semble que la taxidermie pourra plus
 tard être substituée avec avantage aux inhumations et aux crémations.
 Vous pourriez conserver auprès de vous tous ceux qui vous sont chers.
@@ -1343,33 +894,23 @@ Un bric-à-brac de ce genre, disposé à travers la maison, vaudrait
 autant que n'importe quelle compagnie et serait moins coûteux. Vous
 pourriez les agencer avec des mouvements d'horlogerie et leur faire
 des choses...
-</p>
 
-<p>
 «Évidemment il faudrait les vernir, mais il ne serait pas nécessaire
 de les rendre plus brillants que ne le sont en nature des masses de
 gens. Le crâne chauve du vieux Maningtree... Quoi qu'il en soit, on
 pourrait causer avec eux sans être interrompu... même avec ses
 vieilles tantes. Il y a un grand avenir réservé à la taxidermie,
 croyez-le bien. Il y a les fossiles...»
-</p>
 
-<p>
 Il se tut soudain.
-</p>
 
-<p>
 «Non, il ne faut pas que je vous le dise...»
-</p>
 
-<p>
 Il tira méditativement quelques bouffées de sa pipe.
-</p>
 
-<p>
 «Oui, merci... pas trop d'eau... Vous savez, ce que je vais vous dire
 doit rester entre nous. Vous n'ignorez pas que j'ai empaillé quelques
-<i>dodos</i> et un grand pingouin? Comment? Non? Vous n'êtes évidemment
+_dodos_ et un grand pingouin? Comment? Non? Vous n'êtes évidemment
 qu'un amateur en taxidermie. Mon cher monsieur, la moitié des pingouins
 du monde sont à peu près aussi authentiques que le mouchoir de sainte
 Véronique ou la Sainte Tunique de Trêves. Nous les faisons avec des
@@ -1384,28 +925,24 @@ de ces œufs n'aurait la témérité de le nettoyer. C'est là la
 beauté de l'affaire. Même s'ils avaient des soupçons sur leur œuf,
 ils n'oseraient pas l'examiner de trop près. C'est, en somme, un
 capital si fragile.
-</p>
 
-<p>
 «Vous ne saviez pas que la taxidermie pouvait s'élever à des hauteurs
 pareilles... Mon pauvre garçon!... J'ai rivalisé avec la nature
-elle-même! L'un des grands pingouins <i>authentiques</i> (sa voix n'était
-plus qu'un murmure), l'un des grands pingouins <i>authentiques a été
-fait par moi!</i>
-</p>
+elle-même! L'un des grands pingouins _authentiques_ (sa voix n'était
+plus qu'un murmure), l'un des grands pingouins _authentiques a été
+fait par moi!_
 
-<p>
 «Ah! mais non! Vous n'avez qu'à étudier l'ornithologie et trouver
 vous-même lequel c'est. Et, ce qui est mieux, un syndicat de marchands
 m'a proposé de pourvoir de spécimens une des régions inexplorées du
 nord de l'Islande. Je le ferai peut-être un jour. Mais juste en ce
 moment, j'ai une autre petite chose en mains. Avez-vous entendu parler
-du <i>dinornis</i>? «C'est l'un de ces grands oiseaux dont l'espèce a
+du _dinornis_? «C'est l'un de ces grands oiseaux dont l'espèce a
 récemment disparu en Nouvelle-Zélande. On l'appelle communément Feuh,
 sans doute parce qu'il est éteint. Vous comprenez?... Eh bien! on s'est
 procuré de ses os, et on a même trouvé dans les marais des plumes et
-des morceaux de peaux sèches. Et maintenant, je vais fabriquer&mdash;ma foi
-ce n'est pas la peine d'en faire mystère&mdash;je vais fabriquer un Feuh
+des morceaux de peaux sèches. Et maintenant, je vais fabriquer--ma foi
+ce n'est pas la peine d'en faire mystère--je vais fabriquer un Feuh
 entièrement empaillé. Je connais quelqu'un là-bas qui prétendra
 l'avoir découvert dans une sorte de marécage antiseptique et dira
 qu'il l'a empaillé immédiatement parce qu'il menaçait de se
@@ -1415,35 +952,25 @@ de plumes d'autruche passés à la flamme. Oui, c'est là l'odeur
 nouvelle que vous avez remarquée. On ne pourrait se rendre compte de la
 fraude qu'avec un microscope, et personne ne se soucierait de gâter
 pour cela un beau spécimen.
-</p>
 
-<p>
 «De cette façon, vous voyez, je donne un petit coup d'épaule au
 progrès de la science. Mais tout ceci n'est qu'une simple imitation de
 la nature. De mon jeune temps, j'ai fait mieux que cela. Je l'ai... je
 l'ai battue....».
-</p>
 
-<p>
 Il ramena ses pieds à terre et se percha confidentiellement vers moi.
-</p>
 
-<p>
-«J'ai <i>créé</i> des oiseaux, dit-il à voix basse, de <i>nouveaux</i>
+«J'ai _créé_ des oiseaux, dit-il à voix basse, de _nouveaux_
 oiseaux, des oiseaux comme on n'en avait encore jamais vu.»
-</p>
 
-<p>
 Il replaça ses pieds sur le manteau de la cheminée pendant un silence
 impressionnant.
-</p>
 
-<p>
 «Enrichir l'univers... plutôt! quelques-uns des oiseaux que j'ai
 fabriqués étaient des espèces nouvelles de colibris et de fort jolies
 petites choses, mais quelques-uns étaient simplement fantaisistes. Le
 plus drôle de ceux-là fut, je crois: l'Anomatoptéryx-Jejuna...
-Jejunus-Jejuna-Jejunum&mdash;vide&mdash;ainsi appelé parce qu'il n'y avait
+Jejunus-Jejuna-Jejunum--vide--ainsi appelé parce qu'il n'y avait
 réellement rien dedans. Un oiseau absolument vide, à part la bourre.
 C'est le vieux Jawers qui le possède maintenant et je suppose qu'il en
 est presque aussi fier que moi. C'est un chef d'œuvre, Bellows! Il a
@@ -1454,9 +981,7 @@ oiseau pareil! Je l'ai fabriqué avec des fragments de squelettes
 provenant d'une cigogne et d'un toucan, et un lot de plumes acheté
 d'occasion. Ce genre de taxidermie, Bellows, est pour le véritable
 artiste une joie sans mélange.
-</p>
 
-<p>
 «Comment j'en vins à le faire? C'est assez simple, comme toutes les
 grandes inventions. L'un de ces jeunes génies qui rédige pour les
 journaux des notes scientifiques, mit la main sur une brochure allemande
@@ -1474,10 +999,8 @@ collectionneur d'oiseaux jurant qu'il aurait un spécimen d'un oiseau
 qui n'existe pas, qui n'avait jamais existé et qui, à la honte même
 de sa dégaine profane, ne pourrait probablement pas exister maintenant
 si on lui donnait la vie, et il l'obtint!
-</p>
 
-<p>
-«Encore un peu de whisky, Bellows?&mdash;fit le taxidermiste s'éveillant
+«Encore un peu de whisky, Bellows?--fit le taxidermiste s'éveillant
 d'une passagère contemplation des mystères de la volonté et de
 l'esprit collectionneur, et, rasséréné, il continua à me conter
 comment il avait façonné une sirène des plus séduisantes et comment
@@ -1486,9 +1009,7 @@ détruisit sous prétexte d'idolâtrie. Mais comme la conversation des
 personnages qui prirent part à cette transaction: créateur, acheteur
 et destructeur, était uniformément impropre à la publication, ce
 joyeux incident ne sera pas rédigé.
-</p>
 
-<p>
 Les lecteurs peu familiers avec les obscures méthodes des
 collectionneurs seront peut-être enclins à douter du récit de mon
 taxidermiste; mais pour ce qui concerne les œufs du grand pingouin et
@@ -1497,18 +1018,16 @@ distingués ornithologistes; et les notes concernant l'oiseau de la
 Nouvelle-Zélande ont paru de fait dans un journal du matin, d'une
 réputation au-dessus de tout soupçon, car le taxidermiste en conserve
 un exemplaire qu'il m'a montré.
-</p>
 
-<p><br /><br /><br /></p>
 
-<h4><a id="LA_POMME">LA POMME</a></h4>
 
-<p>
-&mdash;Il faut que je me débarrasse!&mdash;fit l'homme assis dans le coin
-du compartiment, rompant brusquement le silence.
-</p>
 
-<p>
+LA POMME
+
+
+--Il faut que je me débarrasse!--fit l'homme assis dans le coin du
+compartiment, rompant brusquement le silence.
+
 M. Hinchcliff leva la tête, n'ayant qu'imparfaitement compris. Il
 avait été jusqu'ici perdu dans la contemplation de sa cape
 d'étudiant liée par un cordon aux poignées de sa valise, signe
@@ -1517,145 +1036,96 @@ extérieur et visible de sa position pédagogique récemment obtenue; il
 les agréables perspectives qu'elle découvrait. Car M. Hinchcliff
 venait de lui s'inscrire à l'Université de Londres et allait
 rejoindre une place de sous-maître à l'école préparatoire
-d'Holmwood&mdash;situation fort enviable. Il regarda avec étonnement son
+d'Holmwood--situation fort enviable. Il regarda avec étonnement son
 compagnon de voyage à l'autre bout du compartiment.
-</p>
 
-<p>
-&mdash;Pourquoi ne pas la donner?&mdash;disait ce personnage.&mdash;La
-donner!... pourquoi pas?
-</p>
+--Pourquoi ne pas la donner?--disait ce personnage.--La donner!...
+pourquoi pas?
 
-<p>
 C'était un homme de haute taille au teint mat et hâlé. Il avait les
 bras nerveusement croisés sur la poitrine et il avait posé les pieds
 sur la banquette qui lui faisait face. Il se mit à tirer sa moustache
 noire et très longue, les yeux fixés sur le bout de ses bottines.
-</p>
 
-<p>
-&mdash;Pourquoi pas?&mdash;dit-il encore.
-</p>
+--Pourquoi pas?--dit-il encore.
 
-<p>
 M. Hinchcliff toussa.
-</p>
 
-<p>
-L'étranger leva les yeux&mdash;c'étaient des yeux gris foncé, très
-perçants&mdash;et, pendant une minute, peut être, il fixa M. Hinchcliff
+L'étranger leva les yeux--c'étaient des yeux gris foncé, très
+perçants--et, pendant une minute, peut être, il fixa M. Hinchcliff
 d'un air morne. Puis son visage sembla prendre une expression
 d'intérêt.
-</p>
 
-<p>
-&mdash;Oui,&mdash;fit-il lentement,&mdash;pourquoi pas? Et en finir.
-</p>
+--Oui,--fit-il lentement,--pourquoi pas? Et en finir.
 
-<p>
-&mdash;Je ne vous saisis, pas très bien, dit M. Hinchcliff en toussant une
+--Je ne vous saisis, pas très bien, dit M. Hinchcliff en toussant une
 seconde fois.
-</p>
 
-<p>
-&mdash;Vous ne me suivez pas très bien,&mdash;répliqua mécaniquement
+--Vous ne me suivez pas très bien,--répliqua mécaniquement
 l'étranger tandis que ses yeux bizarres erraient de M. Hinchcliff à
 la valise d'où pendait avec ostentation la cape et revenaient à la
 figure duveteuse de M. Hinchcliff.
-</p>
 
-<p>
-&mdash;Vos paroles sont si décousues, vous comprenez...&mdash;s'excusa M.
+--Vos paroles sont si décousues, vous comprenez...--s'excusa M.
 Hinchcliff.
-</p>
 
-<p>
-&mdash;Pourquoi pas!&mdash;dit l'étranger suivant sa pensée&mdash;Vous êtes
-étudiant?&mdash;fit-il en s'adressant à M. Hinchcliff.
-</p>
+--Pourquoi pas!--dit l'étranger suivant sa pensée--Vous êtes
+étudiant?--fit-il en s'adressant à M. Hinchcliff.
 
-<p>
-&mdash;Je suis étudiant par correspondance à l'Université de
-Londres.&mdash;dit M. Hinchcliff avec un orgueil non déguisé et portant
+--Je suis étudiant par correspondance à l'Université de
+Londres.--dit M. Hinchcliff avec un orgueil non déguisé et portant
 d'un geste nerveux sa main à sa cravate.
-</p>
 
-<p>
-&mdash;À la poursuite de la science,&mdash;dit l'étranger. Et il retira
+--À la poursuite de la science,--dit l'étranger. Et il retira
 soudain ses pieds de dessus la banquette, posa son poing sur son genou,
 et contempla, M. Hinchcliff comme s'il n'avait jamais vu
 d'étudiant de sa vie.
-</p>
 
-<p>
-&mdash;Oui!&mdash;et il fit un geste avec l'index tendu.
-</p>
+--Oui!--et il fit un geste avec l'index tendu.
 
-<p>
 Puis il se leva, prit dans le filet un sac de cuir qu'il ouvrit. Sans
 le moindre mot il en tira un objet de forme ronde enveloppé d'une
 quantité de papier d'argent qu'il déplia soigneusement. Il tendit
 la chose à M. Hinchcliff: c'était un petit fruit d'un jaune doré
 et très doux au toucher.
-</p>
 
-<p>
 M. Hinchcliff demeura un instant la bouche et les yeux grands ouverts.
 Il n'essaya pas de prendre cet objet, même si on le lui offrait pour
 qu'il le prît.
-</p>
 
-<p>
-&mdash;Ceci,&mdash;dit le fantastique étranger en articulant très
-lentement,&mdash;est la Pomme de l'Arbre de la Connaissance. Regardez-la:
+--Ceci,--dit le fantastique étranger en articulant très
+lentement,--est la Pomme de l'Arbre de la Connaissance. Regardez-la:
 petite, brillante, merveilleuse... la Connaissance!... et je vais vous
 la donner.
-</p>
 
-<p>
 L'esprit de M. Hinchcliff eut une minute de pénible effort, puis
 l'explication évidente: fou, traversa son cerveau et éclaira toute
 la situation; un fou d'humeur joyeuse. Il pencha un peu la tête.
-</p>
 
-<p>
-&mdash;La Pomme de l'Arbre de la Connaissance, hein?...&mdash;dit M.
-Hinchcliff regardant le fruit, feignant un air d'extrême intérêt et
-reportant ensuite ses regards sur son interlocuteur.&mdash;Mais pourquoi ne
-le mangez-vous pas vous-même?...... Et d'ailleurs comment est-il venu en
+--La Pomme de l'Arbre de la Connaissance, hein?...--dit M. Hinchcliff
+regardant le fruit, feignant un air d'extrême intérêt et reportant
+ensuite ses regards sur son interlocuteur.--Mais pourquoi ne le
+mangez-vous pas vous-même?...... Et d'ailleurs comment est-il venu en
 votre possession?
-</p>
 
-<p>
-&mdash;Elle ne se flétrit jamais! Il y a trois mois que je la possède, et
+--Elle ne se flétrit jamais! Il y a trois mois que je la possède, et
 elle est toujours brillante, et lisse, et mûre, et désirable comme
 vous la voyez.
-</p>
 
-<p>
 Il posa sa main sur son genou et considéra la pomme d'un air rêveur,
 puis il se mit à l'envelopper de nouveau dans ses papiers comme
 s'il avait modifié son intention de la donner.
-</p>
 
-<p>
-&mdash;Mais comment l'avez-vous obtenue?&mdash;demanda M. Hinchcliff qui
-avait l'esprit argumentatif&mdash;et comment savez-vous que c'est le fruit
-de l'Arbre?
-</p>
+--Mais comment l'avez-vous obtenue?--demanda M. Hinchcliff qui avait
+l'esprit argumentatif--et comment savez-vous que c'est le fruit de
+l'Arbre?
 
-<p><br /></p>
 
-<div class="figcenter" style="width: 300px;">
-<img src="images/figure06.jpg" width="300" height="400" alt="" />
-<div class="caption">
-<p class="center">LA POMME.&mdash;Il vit, derrière lui, les herbes
-en feu.</p>
-</div></div>
+[Figure 6: LA POMME--Il vit, derrière lui, les herbes en feu.]
 
-<p>
-&mdash;J'ai acheté ce fruit,&mdash;dit l'étranger,&mdash;il y a trois mois,
-pour une gorgée d'eau et une croûte de pain. L'homme qui me la céda,
+
+--J'ai acheté ce fruit,--dit l'étranger,--il y a trois mois, pour
+une gorgée d'eau et une croûte de pain. L'homme qui me la céda,
 parce que mes soins lui avaient conservé la vie, était Arménien.
 L'Arménie! cette contrée merveilleuse! la première de toutes les
 contrées! où l'Arche de Noé est restée, jusqu'à ce jour,
@@ -1679,18 +1149,12 @@ quand même sans comprendre, déchiré et sanglant, jusqu'à ce
 qu'il arrivât à une muraille de rocher au-dessous d'un précipice
 d'où il vit, derrière lui, les herbes en feu et les fumées
 s'élever comme un voile entre lui et ses ennemis.
-</p>
 
-<p>
 L'étranger s'arrêta.
-</p>
 
-<p>
-&mdash;Oui?&mdash;dit M. Hinchcliff,&mdash;et puis?...
-</p>
+--Oui?--dit M. Hinchcliff,--et puis?...
 
-<p>
-&mdash;Il se trouvait donc là, tout blessé et déchiré par les herbes
+--Il se trouvait donc là, tout blessé et déchiré par les herbes
 tranchantes, les rochers brûlants sous les rayons du soleil et la
 fumée de l'incendie s'avançant vers lui. Il n'osa pas y rester.
 Peu lui importait la mort, mais la torture!... Au loin, par delà la
@@ -1705,14 +1169,10 @@ escalader les hauteurs parmi les neiges et les glaces. Ils errèrent
 ainsi pendant trois longs jours. Le troisième jour, ils eurent une
 vision. Je crois que les gens affamés ont souvent des visions, mais
 dans le cas présent nous avons ce fruit.
-</p>
 
-<p>
 Il leva dans sa main le fruit enveloppé d'argent.
-</p>
 
-<p>
-&mdash;J'ai entendu ce récit de la bouche d'autres montagnards qui
+--J'ai entendu ce récit de la bouche d'autres montagnards qui
 savaient la légende. C'était le soir, à l'heure où le nombre des
 étoiles augmente; ils descendaient, une pente de rocs lisses qui menait
 vers une immense vallée sombre dans laquelle croissaient des arbres
@@ -1745,59 +1205,39 @@ d'autres personnes, je donnais mes soins aux blessés. Une vision?
 Mais il tenait encore serré dans sa main le fruit doré de l'arbre.
 Il y avait là d'autres gens qui connaissaient la légende, qui
 savaient ce qu'était cet étrange fruit.
-</p>
 
-<p>
 Il se tut.
-</p>
 
-<p>
-&mdash;Et le voici,&mdash;fit-il après un silence.
-</p>
+--Et le voici,--fit-il après un silence.
 
-<p>
 C'était une histoire très extraordinaire pour être racontée dans
 un compartiment de troisième classe sur une petite ligne de chemin de
 fer du Surrey. On eût pu croire que le réel n'était qu'un voile
 pour le fantastique et ici le fantastique était assez évident.
-</p>
 
-<p>
-&mdash;Vraiment!&mdash;fut tout ce que put répondre M. Hinchcliff.
-</p>
+--Vraiment!--fut tout ce que put répondre M. Hinchcliff.
 
-<p>
-&mdash;La légende,&mdash;reprit l'étranger,&mdash;conte que ces fourrés
-d'arbres nains croissant autour du jardin viennent de la pomme qu'Adam
-tenait à la main quand Ève et lui furent chassés du paradis. Il sentit
+--La légende,--reprit l'étranger,--conte que ces fourrés d'arbres
+nains croissant autour du jardin viennent de la pomme qu'Adam tenait
+à la main quand Ève et lui furent chassés du paradis. Il sentit
 quelque chose dans sa main, aperçut la pomme à demi mangée et la jeta
 au loin avec colère. Là, depuis, croissent ces arbres, dans ce vallon
 désolé, entouré de neiges éternelles, à l'entrée duquel les
 épées de flammes montent la garde jusqu'au jour du jugement.
-</p>
 
-<p>
-&mdash;Je pensais,&mdash;dit M. Hinchcliff&mdash;que tous ces racontars
-étaient... des fables... des paraboles... plutôt. Voulez-vous dire que
-là-bas en Arménie...
-</p>
+--Je pensais,--dit M. Hinchcliff--que tous ces racontars étaient... des
+fables... des paraboles... plutôt. Voulez-vous dire que là-bas en
+Arménie...
 
-<p>
 L'étranger répondit à la question inachevée en tendant le fruit
 dans sa main ouverte.
-</p>
 
-<p>
-&mdash;Mais vous n'avez aucune certitude,&mdash;dit M.
-Hinchcliff,&mdash;que c'est là le Fruit de l'Arbre de la Connaissance.
-L'homme peut avoir eu... une sorte de mirage pourrait-on dire, supposons...
-</p>
+--Mais vous n'avez aucune certitude,--dit M. Hinchcliff,--que c'est
+là le Fruit de l'Arbre de la Connaissance. L'homme peut avoir eu...
+une sorte de mirage pourrait-on dire, supposons...
 
-<p>
-&mdash;Regardez-le,&mdash;fit l'étranger.
-</p>
+--Regardez-le,--fit l'étranger.
 
-<p>
 C'était, à coup sûr, un globe d'aspect étrange, non pas
 exactement une pomme, comme M. Hinchcliff put s'en rendre compte, mais
 un fruit d'une couleur dorée, brillant curieusement, comme si la
@@ -1806,160 +1246,101 @@ considérant, il se représentait plus vivement le vallon désolé au
 milieu des montagnes, les épées de flammes qui le gardaient et tous
 les étranges détails de l'histoire qu'il venait d'entendre. Il
 se frotta les vigoureusement yeux.
-</p>
 
-<p>
-&mdash;Mais...&mdash;commença-t-il.
-</p>
+--Mais...--commença-t-il.
 
-<p>
-&mdash;Il est resté tel que cela, lisse et frais pendant trois mois, un peu
+--Il est resté tel que cela, lisse et frais pendant trois mois, un peu
 plus longtemps que cela même, sans se dessécher, sans se flétrir,
 sans se corrompre.
-</p>
 
-<p>
-&mdash;Mais... vous... vous-même... croyez vous réellement que...!
-</p>
+--Mais... vous... vous-même... croyez vous réellement que...!
 
-<p>
-&mdash;C'est le Fruit Défendu.
-</p>
+--C'est le Fruit Défendu.
 
-<p>
 Il n'y avait pas moyen de se méprendre sur la sincérité de ton et
 sur la parfaite lucidité d'esprit de l'homme.
-</p>
 
-<p>
-&mdash;Le Fruit de la Connaissance,&mdash;dit-il.
-</p>
+--Le Fruit de la Connaissance,--dit-il.
 
-<p>
-&mdash;Bien, admettons-le,&mdash;dit M. Hinchcliff après une pause
-et les yeux toujours fixés sur le fruit,&mdash;mais après
-tout,&mdash;continua-t-il, ce n'est pas mon genre de connaissances, le
-genre de science qu'il me faut acquérir; d'ailleurs Adam et Ève l'ont déjà
-mangée.
-</p>
+--Bien, admettons-le,--dit M. Hinchcliff après une pause et les yeux
+toujours fixés sur le fruit,--mais après tout,--continua-t-il, ce
+n'est pas mon genre de connaissances, le genre de science qu'il me
+faut acquérir; d'ailleurs Adam et Ève l'ont déjà mangée.
 
-<p>
-&mdash;Nous avons hérité de leur péché et non de leur
-connaissance,&mdash;répliqua l'étranger.&mdash;Si nous y goûtions
-maintenant tout serait de nouveau clair et pur. Nous verrions au fond de
-toutes choses, nous comprendrions les plus secrètes significations...
-</p>
+--Nous avons hérité de leur péché et non de leur
+connaissance,--répliqua l'étranger.--Si nous y goûtions maintenant
+tout serait de nouveau clair et pur. Nous verrions au fond de toutes
+choses, nous comprendrions les plus secrètes significations...
 
-<p>
-&mdash;Pourquoi ne le mangez-vous pas, alors?&mdash;questionna M.
-Hinchcliff, soudainement inspiré.
-</p>
+--Pourquoi ne le mangez-vous pas, alors?--questionna M. Hinchcliff,
+soudainement inspiré.
 
-<p>
-&mdash;C'est dans cette intention que je l'avais pris,&mdash;dit
-l'étranger.&mdash;L'homme est déchu. Seulement manger à nouveau le
+--C'est dans cette intention que je l'avais pris,--dit
+l'étranger.--L'homme est déchu. Seulement manger à nouveau le
 fruit pourrait difficilement...
-</p>
 
-<p>
-&mdash;Savoir, c'est pouvoir!&mdash;dit M. Hinchcliff.
-</p>
+--Savoir, c'est pouvoir!--dit M. Hinchcliff.
 
-<p>
-&mdash;Mais est-ce le bonheur? Je suis plus vieux que vous, j'ai plus que
+--Mais est-ce le bonheur? Je suis plus vieux que vous, j'ai plus que
 deux fois votre âge. Maintes et maintes fois j'ai tenu ceci dans ma
 main et chaque fois le cœur m'a manqué à la pensée de tout ce
 qu'on pourrait savoir... à pourrait savoir... à cette redoutable
 lucidité... Supposez que tout à coup le monde entier vous devienne
 impitoyablement clair?
-</p>
 
-<p>
-&mdash;Cela, je pense, serait en somme un grand avantage,&mdash;assura M.
+--Cela, je pense, serait en somme un grand avantage,--assura M.
 Hinchcliff.
-</p>
 
-<p>
-&mdash;Supposez que vous puissiez voir dans les cœurs et les esprits de
-ceux qui vous entourent, dans les recoins les plus secrets... des gens que
+--Supposez que vous puissiez voir dans les cœurs et les esprits de ceux
+qui vous entourent, dans les recoins les plus secrets... des gens que
 vous aimez, à l'amour de qui vous tenez?
-</p>
 
-<p>
-&mdash;On trouverait bien vite la comédie,&mdash;dit M. Hinchcliff,
-grandement frappé par cette idée.
-</p>
+--On trouverait bien vite la comédie,--dit M. Hinchcliff, grandement
+frappé par cette idée.
 
-<p>
-&mdash;Et chose pire... se connaître soi-même... dépouillé de ses plus
+--Et chose pire... se connaître soi-même... dépouillé de ses plus
 intimes illusions... se voir soi même à sa place... voilà tout ce que
 les désirs et les faiblesses nous ont empêché de faire... sans la
 moindre indulgente atténuation...
-</p>
 
-<p>
-&mdash;Mais cela serait une chose excellente... Connais-toi toi-même!...
+--Mais cela serait une chose excellente... Connais-toi toi-même!...
 Vous souvenez-vous?
-</p>
 
-<p>
-&mdash;Vous êtes jeune!&mdash;dit l'étranger.
-</p>
+--Vous êtes jeune!--dit l'étranger.
 
-<p>
-&mdash;Si vous ne vous souciez pas de le manger et qu'il vous soit à
+--Si vous ne vous souciez pas de le manger et qu'il vous soit à
 charge, pourquoi ne le jetez-vous pas, tout simplement?
-</p>
 
-<p>
-&mdash;Ici encore, sans doute, vous ne me comprendrez pas. Pour moi, je me
+--Ici encore, sans doute, vous ne me comprendrez pas. Pour moi, je me
 demande comment on pourrait jeter une chose comme celle-là, brillante,
 merveilleuse? Une fois qu'on l'a, on est lié. Mais d'un autre
 côté: la donner à quelqu'un qui ait soif de connaissances, qui
 n'éprouverait aucune terreur à la pensée de cette claire
 perception...
-</p>
 
-<p>
-&mdash;D'ailleurs,&mdash;risqua pensivement M. Hinchcliff,&mdash;ce peut
-être quelque fruit vénéneux. À ce moment son œil aperçut par la fenêtre
+--D'ailleurs,--risqua pensivement M. Hinchcliff,--ce peut être
+quelque fruit vénéneux. À ce moment son œil aperçut par la fenêtre
 du compartiment quelque chose d'immobile, l'extrémité d'un grand
 écriteau blanc avec des lettres noires:... MWOOD. À cette vue, il
 tressaillit:
-</p>
 
-<p>
-&mdash;Bon sang!&mdash;s'exclama-t-il,&mdash;Holmwood!...
-</p>
+--Bon sang!--s'exclama-t-il,--Holmwood!...
 
-<p>
 La réalité présente chassa soudain les imaginations mystiques
 auxquelles il s'était abandonné. Il ouvrit la portière, sa valise
 à la main. Déjà le chef de train donnait le signal du départ. M.
 Hinchcliff sauta sur le quai.
-</p>
 
-<p>
-&mdash;Tenez!&mdash;fit une voix derrière lui.
-</p>
+--Tenez!--fit une voix derrière lui.
 
-<p>
 Il vit les yeux brillants et sombres de l'étranger et le fruit doré,
 velouté et tentant sur la main ouverte de l'homme. Il le prit
 instinctivement et le train s'ébranla.
-</p>
 
-<p>
-&mdash;Non!&mdash;cria l'étranger en faisant un geste comme pour le
-reprendre.
-</p>
+--Non!--cria l'étranger en faisant un geste comme pour le reprendre.
 
-<p>
-&mdash;Attention!&mdash;cria un employé se précipitant pour fermer la
-portière.
-</p>
+--Attention!--cria un employé se précipitant pour fermer la portière.
 
-<p>
 L'étranger, la tête et le bras passés à travers le carreau, cria
 quelque chose que Hinchcliff ne comprit pas. Puis, l'ombre du pont le
 cacha et en un clin d'œil il eut disparu. M. Hinchcliff, abasourdi et
@@ -1978,16 +1359,12 @@ chemin qui devait le mener à l'École Préparatoire et des moyens de
 faire porter sa valise, et les deux petites malles de fer qui étaient
 là-bas au bout du quai. Oh! l'ennui de s'occuper de ces détails
 vulgaires.
-</p>
 
-<p>
 On lui transporterait ses bagages sur une brouette pour dix sous et il
 pouvait les précéder à pied. Il se figura surprendre une certaine
 ironie dans les voix de ses interlocuteurs. Il éprouvait un sentiment
 de gêne à la pensée de son aspect.
-</p>
 
-<p>
 Le ton de sincérité de son compagnon de voyage et le magique attrait
 de son récit avaient, pendant un instant, détourné le cours des
 pensées de M. Hinchcliff. Tout cela s'était interposé comme un
@@ -2009,13 +1386,9 @@ désert il retira de sa poche l'encombrant objet et essaya de le
 mettre sous son chapeau. La pomme était juste un peu trop grosse; le
 chapeau dansait d'une façon grotesque et, au moment où il la
 retirait, un garçon boucher tourna le coin de la route avec sa voiture.
-</p>
 
-<p>
-&mdash;Sacrebleu!&mdash;exclama M. Hinchcliff.
-</p>
+--Sacrebleu!--exclama M. Hinchcliff.
 
-<p>
 Il l'aurait mangée incontinent, acquérant l'omniscience, mais il
 eût été si stupide d'entrer en ville en suçant un fruit juteux car
 évidemment il devait l'être. Si l'un des élèves venait à
@@ -2024,53 +1397,35 @@ d'être vu dans cette posture. Ou bien le jus pourrait lui poisser la
 figure et tacher ses manchettes. Ou bien encore ce pouvait être un jus
 acide aussi fort que celui du citron et qui décolorerait ses
 vêtements...
-</p>
 
-<p>
 Puis, au détour du chemin ensoleillé, il aperçut deux jolies filles.
 Elles marchaient à petits pas vers la ville, bavardant, et à tout
 moment elles pouvaient se retourner et dévisager derrière elles un
 jeune homme à la figure rouge et portant à la main une tomate jaune
 phosphorescente! Sûrement elles éclateraient de rire.
-</p>
 
 
-<p><br /></p>
+[Figure 7: LA POMME--D'un geste rapide, il envoya le fruit encombrant
+par dessus le mur d'un verger.]
 
-<div class="figcenter" style="width: 300px;">
-<img src="images/figure07.jpg" width="300" height="400" alt="" />
-<div class="caption">
-<p class="center">LA POMME.&mdash;D'un geste rapide, il envoya le fruit
-encombrant par dessus le mur d'un verger.</p>
-</div></div>
 
-<p>
-&mdash;Flûte!&mdash;dit M. Hinchcliff et d'un geste rapide, il envoya le
-fruit encombrant par-dessus le mur de pierre d'un verger qui bordait la
-route.
-</p>
+--Flûte!--dit M. Hinchcliff et d'un geste rapide, il envoya le fruit
+encombrant par-dessus le mur de pierre d'un verger qui bordait la route.
 
-<p>
 Au moment où la pomme disparut, il éprouva de cette perte un vague
 regret qui dura quelques secondes. Il reprit avec aisance sa canne et
 son gant et se mit à marcher droit et satisfait pour dépasser les
 jeunes filles.
-</p>
 
-<p>
 Mais dans les ténèbres de la nuit, M. Hinchcliff eut un rêve. Il vit
 la vallée, les épées de flammes, les arbres rabougris et il sut que
 c'était réellement le fruit de la Connaissance qu'il avait si
 inconsidérément jeté, et il s'éveilla fort malheureux.
-</p>
 
-<p>
 Dans la matinée, son regret disparut, mais plus tard. Il revint le
 tourmenter, jamais néanmoins lorsqu'il était heureux ou très
 occupé.
-</p>
 
-<p>
 Enfin par une nuit de lune, vers onze heures, quand tout Holmwood fut
 endormi, ses regrets reparurent avec une force redoublée et avec eux la
 tentation de courir les aventures. Il se glissa hors de la maison,
@@ -2078,69 +1433,45 @@ escalada le mur, gagna à travers la ville silencieuse le chemin de la
 gare et pénétra dans le verger où il avait jeté le fruit, mais il ne
 put rien trouver parmi l'herbe humide et les fragiles globes de
 pissenlits.
-</p>
 
-<p><br /><br /><br /></p>
 
-<h4><a id="LHOMME_VOLANT">L'HOMME VOLANT</a></h4>
 
-<p>
+
+L'HOMME VOLANT
+
+
 L'ethnologue considéra pensivement la plume de Bhimraj.
-</p>
 
-<p>
-&mdash;Il semblait ne guère tenir à s'en séparer, dit—il.
-</p>
+--Il semblait ne guère tenir à s'en séparer, dit—il.
 
-<p>
-&mdash;Elle est sacrée pour les chefs, répondit le lieutenant, comme la
+--Elle est sacrée pour les chefs, répondit le lieutenant, comme la
 soie jaune est sacrée pour l'empereur de Chine.
-</p>
 
-<p>
 L'ethnologue ne répondit pas. Il hésitait; puis entrant brusquement
 en matière, il demanda:
-</p>
 
-<p>
-&mdash;Quel est ce conte à dormir debout, qu'ils racontent à propos
+--Quel est ce conte à dormir debout, qu'ils racontent à propos
 d'un homme volant?
-</p>
 
-<p>
 Le lieutenant eut un faible sourire.
-</p>
 
-<p>
-&mdash;Que vous ont-ils dit?
-</p>
+--Que vous ont-ils dit?
 
-<p>
-&mdash;Je vois, fit l'ethnologue, que vous êtes au courant de votre
+--Je vois, fit l'ethnologue, que vous êtes au courant de votre
 renommée.
-</p>
 
-<p>
 Le lieutenant se mit à rouler une cigarette.
-</p>
 
-<p>
-&mdash;J'aimerais bien entendre une fois de plus cette histoire, fit-il,
-pour voir où elle en est maintenant.
-</p>
+--J'aimerais bien entendre une fois de plus cette histoire, fit-il, pour
+voir où elle en est maintenant.
 
-<p>
-&mdash;Elle est si stupidement enfantine! reprit l'ethnologue quelque peu
+--Elle est si stupidement enfantine! reprit l'ethnologue quelque peu
 irrité. Comment leur avez-vous joué ce tour-là.
-</p>
 
-<p>
 Le lieutenant garda le silence et, toujours souriant, se renversa dans
 son fauteuil.
-</p>
 
-<p>
-&mdash;Voici donc que j'ai fait un détour de cinq cents kilomètres pour
+--Voici donc que j'ai fait un détour de cinq cents kilomètres pour
 recueillir le folklore que ces gens ont pu conserver, avant qu'ils ne
 soient complètement démoralisés par les missionnaires et les
 militaires, et je ne trouve qu'un tas de légendes impossibles au sujet
@@ -2151,40 +1482,26 @@ vieillard m'a décrit vos ailes disant qu'elles étaient d'un
 plumage noir, mais pas tout à fait aussi long qu'une mule. Il
 prétend qu'il vous a vu souvent au clair de lune voltiger au-dessus des
 collines vers le pays de Shendon. Que le diable vous emporte!...
-</p>
 
-<p>
 Le lieutenant éclata de rire gaiement.
-</p>
 
-<p>
-&mdash;Continuez, dit-il, continuez...
-</p>
+--Continuez, dit-il, continuez...
 
-<p>
 L'ethnologue continua jusqu'à ce qu'il en eût assez.
-</p>
 
-<p>
-&mdash;En faire accroire pareillement à ces enfants des montagnes encore
+--En faire accroire pareillement à ces enfants des montagnes encore
 ingénus! Comment avez-vous pu faire cela?
-</p>
 
-<p>
-&mdash;J'en suis très fâché, dit le lieutenant, mais vraiment j'y fus
+--J'en suis très fâché, dit le lieutenant, mais vraiment j'y fus
 bien obligé. Je puis vous affirmer que la chose s'imposait et je
 n'avais pas alors, la moindre idée de la façon dont l'imagination
 de ces gens la prendrait.
-</p>
 
-<p>
 «Pas la moindre curiosité non plus. Je puis seulement invoquer que ce
 fut une indiscrétion et nullement la malice qui m'a fait remplacer le
 folklore par une nouvelle légende. Mais comme vous semblez chagriné,
 je vais essayer de vous expliquer l'affaire.
-</p>
 
-<p>
 «C'était à l'époque de l'avant-dernière expédition contre
 les Lou-Chaï, et Walters croyait que ces gens que vous venez de visiter
 étaient animés pour nous d'intentions amicales; aussi, avec une
@@ -2195,14 +1512,10 @@ bénédiction, pour me rendre compte des sentiments populaires du
 village que vous avez visité. Une troupe forte de dix hommes sans
 compter les mules, vingt kilomètres à faire et en temps
 d'hostilité! Vous avez vu la route?
-</p>
 
-<p>
-&mdash;La route! fit l'ethnologue.
-</p>
+--La route! fit l'ethnologue.
 
-<p>
-&mdash;Elle est meilleure maintenant qu'elle ne l'était autrefois. Il
+--Elle est meilleure maintenant qu'elle ne l'était autrefois. Il
 nous fallut suivre le lit de la rivière pendant quinze cents mètres à
 l'endroit où la vallée se rétrécit. Il y avait un courant rapide
 qui écumait autour de nos genoux et roulait sur des pierres aussi
@@ -2212,45 +1525,33 @@ pour faire la voie plus commode que vous connaissez. Dans ce temps-là,
 on suivait par le bas, au long des hauts rochers à pic et il fallait
 sans cesse contourner la rivière, sans compter qu'on devait la
 traverser une douzaine de fois sur une longueur de trois kilomètres.
-</p>
 
-<p>
 «Nous arrivâmes en vue de la place le lendemain matin de bonne heure.
 Vous savez où elle se trouve! Sur un contrefort à mi-chemin entre les
 hauteurs, et comme nous commencions à apprécier la trompeuse
 tranquillité du village ensoleillé, nous nous arrêtâmes pour tenir
 conseil.
-</p>
 
-<p>
 «Alors en guise de bienvenue, ils nous envoyèrent un morceau d'idole
 de cuivre: le bloc descendit la pente droite, passa à un pouce de mon
 épaule et tamponna la mule qui portait les provisions et les
 ustensiles.
-</p>
 
-<p>
 «Jamais, ni avant cela, ni depuis, je n'entendis de pareil vacarme.
 À ce moment nous aperçûmes un certain nombre de gentlemen portant des
 fusils à pierre, revêtus d'espèces de torchons à carreaux de
 couleurs, et faisant un détour au long d'un sentier entre le village
 et les hauteurs, vers l'est.
-</p>
 
-<p>
-&mdash;«Volte-face! commandai-je, et espacez-vous.
-</p>
+--«Volte-face! commandai-je, et espacez-vous.
 
-<p>
 «Avec cet encouragement, mon expédition de dix hommes fit demi-tour et
 se mit à redescendre la vallée d'un trot leste. Nous ne nous
 attardâmes pas à sauver la moindre chose de la charge de notre
-mort,&mdash;mais, par un sentiment d'amitié, nous emmenâmes avec nous la
+mort,--mais, par un sentiment d'amitié, nous emmenâmes avec nous la
 seconde mule, qui portait ma tente et diverses hardes.
-</p>
 
-<p>
-«Ainsi se termina la bataille&mdash;sans gloire! Jetant un coup d'œil en
+«Ainsi se termina la bataille--sans gloire! Jetant un coup d'œil en
 arrière, je vis la vallée toute parsemée de vainqueurs qui poussaient
 des cris et nous tiraient dessus. Mais personne ne fut atteint. Ces gens
 ne sont guère à craindre avec leurs fusils; ils ne savent toucher
@@ -2259,67 +1560,45 @@ heures, et quand ils tirent en courant, c'est simplement pour faire du
 tapage. Hooker, l'un de mes soldats blancs, se croyait bon tireur, et
 il s'arrêta une demi-minute pour risquer la chance d'en abattre un,
 mais il nous rattrapa bredouille.
-</p>
 
-<p>
 «Je ne suis pas un Xénophon pour débiter une longue histoire sur mon
 armée en retraite. Pendant les deux ou trois kilomètres qui suivirent,
 il nous fallut par deux fois arrêter l'ennemi qui nous pressait un
 peu trop, et échanger quelques coups de feu. Mais l'affaire fût, en
-somme, assez monotone&mdash;on s'essoufflait seulement&mdash;jusqu'à ce que
+somme, assez monotone--on s'essoufflait seulement--jusqu'à ce que
 nous fussions parvenus à l'endroit où les hauteurs descendent vers
 la rivière et resserrent la vallée en un simple défilé. Là, fort
 heureusement, j'aperçus une demi-douzaine de têtes noires qui
-venaient nous prendre en écharpe du haut des rochers, sur la gauche&mdash;à
+venaient nous prendre en écharpe du haut des rochers, sur la gauche--à
 l'est, en réalité.
-</p>
 
-<p>
 «À cette vue, je commandai halte.
-</p>
 
-<p>
-«&mdash;Attention maintenant. Qu'allons-nous faire? dis-je à Hooker et
+«--Attention maintenant. Qu'allons-nous faire? dis-je à Hooker et
 aux autres, en indiquant les têtes noires.
-</p>
 
-<p>
-«&mdash;Je veux bien être nègre, si nous ne sommes pas chipés, dit l'un
+«--Je veux bien être nègre, si nous ne sommes pas chipés, dit l'un
 des hommes.
-</p>
 
-<p>
-«&mdash;Nous le serons, répondit un autre. Tu connais les façons de ces
+«--Nous le serons, répondit un autre. Tu connais les façons de ces
 bougres, hein, Georges?
-</p>
 
-<p>
-«&mdash;Ils vont nous tirer au gîte à cinquante mètres, déclara Hooker,
+«--Ils vont nous tirer au gîte à cinquante mètres, déclara Hooker,
 à l'endroit où la rivière s'étrangle. Autant se suicider que de
 continuer à descendre.
-</p>
 
-<p>
 «Je regardai la hauteur à notre droite. Elle tombait presque à pic au
 bas de la vallée, mais elle paraissait pouvoir être escaladée et tous
 les ennemis que nous avions vus jusqu'ici étaient de l'autre côté
 de l'eau.
-</p>
 
-<p>
-«&mdash;C'est cela, ou s'arrêter! fit l'un des cipayes.
-</p>
+«--C'est cela, ou s'arrêter! fit l'un des cipayes.
 
-<p><br /></p>
 
-<div class="figcenter" style="width: 300px;">
-<img src="images/figure08.jpg" width="300" height="400" alt="" />
-<div class="caption">
-<p class="center">L'HOMME VOLANT.&mdash;Je retournai vers l'homme qu'une
-balle avait atteint à la jambe, et je le pris dans mes bras.</p>
-</div></div>
+[Figure 8: L'HOMME VOLANT--Je retournai vers l'homme qu'une balle
+avait atteint à la jambe, et je le pris dans mes bras.]
 
-<p>
+
 «Nous nous mîmes à grimper obliquement la colline. Il y avait une
 sorte de vague sentier qui montait en biais et nous le suivîmes.
 Bientôt, quelques ennemis parurent en vue vers le haut de la vallée,
@@ -2329,43 +1608,31 @@ sans un mot, pour ne pas donner d'inquiétude apparemment. De nouveau,
 je commandai halte. Je dis à Hooker d'essayer d'abattre quelques
 ennemis et je retournai vers l'homme qu'une balle avait atteint à
 la jambe. Je le pris dans mes bras et le portai jusqu'à la mule sur
-laquelle je l'installai,&mdash;la pauvre bête était déjà suffisamment
+laquelle je l'installai,--la pauvre bête était déjà suffisamment
 chargée avec la tente et les autres fourbis que nous n'avions pas le
 temps de détacher. Quand j'eus rejoint le reste de la troupe, Hooker
 avait sa carabine vide à la main et indiquait, en riant, vers le haut
 de la vallée, une tache noire immobile. Tous les autres ennemis
 s'étaient dissimulés derrière des roches ou avaient fui au delà de
 la courbe.
-</p>
 
-<p>
-«&mdash;À cinq cents mètres, fit Hooker; et je parie que je l'ai touché
+«--À cinq cents mètres, fit Hooker; et je parie que je l'ai touché
 en pleine tête.
-</p>
 
-<p>
 «Je l'engageai à recommencer un aussi beau coup, et nous nous
 remîmes en route.
-</p>
 
-<p>
 «La pente maintenant devenait plus abrupte, et le sentier moins marqué
 à mesure que nous montions. Bientôt, au-dessus et au-dessous de nous,
 ce furent plus que des falaises.
-</p>
 
-<p>
 «C'est le plus beau chemin que j'aie vu dans ce pays de Lou-Chaï,
 dis-je pour encourager les hommes, mais, en moi-même, je redoutais ce
 qui allait arriver.
-</p>
 
-<p>
 «Au bout de quelques minutes, le chemin tournait court autour de la
 falaise. Puis c'était tout: le sentier se terminait là.
-</p>
 
-<p>
 «En se rendant compte de la position, l'un des hommes se mit à jurer
 et à maudire le piège dans lequel nous avions donné. Nous nous
 trouvions sur une sorte de plate-forme qui devait être, au plus, large
@@ -2374,9 +1641,7 @@ nous de sorte qu'on ne pouvait nous fusiller d'en haut, et devant
 nous s'ouvrait un précipice de deux ou trois cents pieds de
 profondeur. En nous couchant contre le sol, nous étions invisibles pour
 ceux qui auraient été de l'autre côté du ravin.
-</p>
 
-<p>
 «La seule approche que nous pussions craindre était au long du
 passage, et un homme bien embusqué à l'entrée valait une armée.
 Nous étions dans une forteresse naturelle, avec un seul désavantage:
@@ -2385,22 +1650,14 @@ vivante. Cependant, nous étions éloignés de douze ou quinze
 kilomètres du gros de l'expédition, mais sans doute, quand ils nous
 verraient absents un jour ou deux, ils enverraient à notre recherche si
 nous ne rentrions pas. Au bout d'un jour ou deux...»
-</p>
 
-<p>
 Le lieutenant se tut soudain.
-</p>
 
-<p>
-«&mdash;Avez-vous jamais eu soif, Graham?
-</p>
+«--Avez-vous jamais eu soif, Graham?
 
-<p>
-«&mdash;Jamais de cette façon-là, répondit l'ethnologue.
-</p>
+«--Jamais de cette façon-là, répondit l'ethnologue.
 
-<p>
-«&mdash;Hum! nous avons eu soif pendant toute cette journée, pendant la
+«--Hum! nous avons eu soif pendant toute cette journée, pendant la
 nuit suivante et tout le lendemain avec seulement quelques gouttes de
 rosée obtenues en tordant divers linges et la tente. Au-dessous de
 nous, la rivière coulait avec des glouglous contre un rocher qui se
@@ -2415,17 +1672,13 @@ voir à l'entrée du passage, l'homme avait disparu. Le lendemain
 matin le cipaye blessé eut le délire et il sauta, ou il tomba, dans le
 ravin; alors nous abattîmes la mule et elle aussi dégringola, dans ses
 dernières secousses, au bas du précipice, et nous restâmes huit.
-</p>
 
-<p>
 «Nous apercevions, tout au fond du gouffre, le corps du cipaye, dont la
 tête plongeait dans l'eau. Il était à plat ventre, et autant
 qu'on pouvait s'en rendre compte il paraissait fort peu meurtri.
 Malgré tout le désir de l'ennemi d'avoir cette tête. Il
 n'osèrent pas s'approcher avant la nuit.
-</p>
 
-<p>
 «D'abord, nous parlâmes des chances qu'il y avait que le gros de
 la troupe ait entendu notre fusillade, et nous tâchions de supputer à
 quel moment ils remarqueraient notre retard, et mille autres choses.
@@ -2440,12 +1693,10 @@ testament et je dus le faire cesser. Tandis que je regardais, au fond de
 la vallée, la rivière couler et bouillonner, J'étais presque tenté
 de suivre le cipaye. Cela semblait attirant et désirable de
 dégringoler le long de la pente, avec au bas quelque chose à
-boire&mdash;ou, du moins, plus de soif du tout. Cependant, je me souvins à
+boire--ou, du moins, plus de soif du tout. Cependant, je me souvins à
 temps que je commandais le détachement et que mon devoir était de
 donner le bon exemple, et cela m'empêcha de commettre une sottise.
-</p>
 
-<p>
 «C'est en pensant à cela qu'une idée me vint. Je me levai et
 examinai la tente et, ses cordes, et je m'étonnai de n'y avoir pas
 pensé plus haut. Puis, j'allai jusqu'au bord de la falaise mesurer
@@ -2453,9 +1704,7 @@ de l'œil la distance. Cette fois la hauteur me sembla plus grande et
 la pose du cipaye quelque peu plus pénible. Mais il n'y avait que ce
 moyen ou rien... et, pour vous le dire sans plus de détour, je
 descendis en parachute.
-</p>
 
-<p>
 «Je pris un grand cercle de toile de la tente, environ trois fois grand
 comme ce tapis de table. Je fis un trou dans le milieu, je liai huit
 cordes autour qui se réunissaient au centre pour former un parachute.
@@ -2466,26 +1715,18 @@ l'expérience. Les deux hommes tinrent l'instrument élevé et je
 pris mon élan de toute la longueur de la plate-forme. Mon parachute
 s'emplit d'air comme une voile, mais je dois avouer qu'arrivé au
 bord j'eus la venette et je m'arrêtai court.
-</p>
 
-<p>
 «Mais j'eus aussitôt honte de moi-même; je retournai à
 l'extrémité de la plate-forme et me lançai de nouveau. Cette fois,
-je sautai&mdash;avec une sorte de sanglot, je me le rappelle&mdash;je
-sautai en plein dans le vide, avec la grande voile, blanche qui se gonflait
+je sautai--avec une sorte de sanglot, je me le rappelle--je sautai en
+plein dans le vide, avec la grande voile, blanche qui se gonflait
 au-dessus de moi.
-</p>
 
-<p><br /></p>
 
-<div class="figcenter" style="width: 300px;">
-<img src="images/figure09.jpg" width="300" height="400" alt="" />
-<div class="caption">
-<p class="center">L'HOMME VOLANT.&mdash;«À cette vue, j'aurais bien voulu
-pouvoir remonter.»</p>
-</div></div>
+[Figure 9: L'HOMME VOLANT--«À cette vue, j'aurais bien voulu
+pouvoir remonter.»]
 
-<p>
+
 «Mes pensées durent se précipiter avec une vitesse effrayante. Il
 sembla s'écouler un long moment avant que je pusse être sûr que mon
 instrument resterait droit. D'abord il se balança de côté et
@@ -2496,9 +1737,7 @@ cadavre du cipaye qui venaient, à ma rencontre. Mais dans
 l'indistincte clarté, je discernai aussi trois ennemis, ahuris de me
 voir arriver, et le cipaye décapité. À cette vue j'aurais bien
 voulu pouvoir remonter.
-</p>
 
-<p>
 Au même instant, ma botte entrait dans la bouche d'un des ennemis, et
 lui et moi ne formions plus qu'un seul tas avec la toile qui
 s'abattait sur nous en se dégonflant. Sans doute, j'avais dû faire
@@ -2506,9 +1745,7 @@ jaillir la cervelle de l'homme sous mon pied. Je n'attendais rien
 d'autre que d'être à mon tour massacré, mais les pauvres païens,
 qui n'avaient jamais entendu parler de Baldwin, prirent immédiatement
 la fuite.
-</p>
 
-<p>
 «Je me dépêtrai de la toile et du cadavre et jetai un regard autour
 de moi. À environ dix pas se trouvait la tête du cipaye, les yeux
 fixes, au clair de lune. Puis, j'aperçus l'eau et je courus boire.
@@ -2516,9 +1753,7 @@ Il n'y avait d'autre bruit au monde que celui de la retraite
 précipitée des ennemis, un faible cri qui me parvint d'en haut et le
 murmure du courant. Dès que j'eus bu tout mon soûl, je descendis au
 long de la rivière.
-</p>
 
-<p>
 «Telle est l'explication de l'histoire de l'homme volant. Pendant
 les douze kilomètres que je fis pour rejoindre l'expédition, je ne
 rencontrai âme qui vive. J'arrivai au camp de Walters vers dix heures
@@ -2529,35 +1764,366 @@ cinquante hommes se mirent en route pour aller débarrasser la vallée
 des ennemis et ramener nos hommes. Mais j'avais eu pour ma part
 suffisamment soif pour ne pas aller la provoquer de nouveau en les
 accompagnant.
-</p>
 
-<p>
 «Vous avez entendu quelle sorte de légende ils ont fabriquée avec
 cela. Des ailes grandes comme une mule, hein? et des plumes noires? Le
 bon lieutenant transformé en oiseau. Bon! bon!»
-</p>
 
-<p>
 Un instant le lieutenant resta plongé dans quelque joyeuse méditation,
 puis il ajouta:
-</p>
 
-<p>
-&mdash;Vous ne le croiriez pas, mais quand ils arrivèrent à la plate-forme,
+--Vous ne le croiriez pas, mais quand ils arrivèrent à la plate-forme,
 deux cipayes avalent sauté en bas.
-</p>
 
-<p>
-&mdash;Le reste allait bien? demanda l'ethnologue.
-</p>
+--Le reste allait bien? demanda l'ethnologue.
 
-<p>
-&mdash;Le reste allait bien, à part la soif. Et à ce souvenir le lieutenant
+--Le reste allait bien, à part la soif. Et à ce souvenir le lieutenant
 se versa un nouveau verre de whisky et de soda.
-</p>
 
-<p><br /><br /><br /></p>
 
-<div>*** END OF THE PROJECT GUTENBERG EBOOK 64590 ***</div>
-</body>
-</html>
+*** END OF THE PROJECT GUTENBERG EBOOK DANS L’ABÎME ***
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the
+United States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away--you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you will have to check the laws of the country where
+  you are located before using this eBook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that:
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg-tm trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+Section 3. Information about the Project Gutenberg Literary
+Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation's website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without
+widespread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org
+
+This website includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
